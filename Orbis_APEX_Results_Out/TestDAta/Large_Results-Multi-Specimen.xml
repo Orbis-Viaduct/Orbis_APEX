@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OutboundResult xmlns:foo="http://www.foo.org/"
+    xmlns:bar="http://www.bar.org">
+    <SharedOrder>
+        <OrderComments></OrderComments>
+        <OrderNumber>381</OrderNumber>
+        <OrderDateTime>0001-01-01T07:45:29</OrderDateTime>
+        <OrderCopies></OrderCopies>
+        <ExternalID></ExternalID>
+        <PlacerGroup>RNMW/1234</PlacerGroup>
+        <RFN></RFN>
+        <PatientCategoryCode>NHS</PatientCategoryCode>
+        <Order Discipline="BS">
+            <LRN>BS23,0000053</LRN>
+            <Status>200</Status>
+            <StatusExpansion>In Progress</StatusExpansion>
+            <Comments></Comments>
+            <SubDisciplineCode>BS</SubDisciplineCode>
+            <Discipline>BS</Discipline>
+            <Specimen>
+                <LRN>BS23,0000053.A</LRN>
+                <ExternalID></ExternalID>
+                <Status>590</Status>
+                <StatusExpansion>Partially Authorised</StatusExpansion>
+                <Comments>Fluid assays are not validated by the reagent supplier and are therefore outside the scope of our accredited service. This applies to all fluid tests.
+                </Comments>
+                <CollectionDateTime>2023-01-25T07:00:00</CollectionDateTime>
+                <ReceivedDateTime>2023-01-25T07:44:06</ReceivedDateTime>
+                <SpecimenTypeCode>SER</SpecimenTypeCode>
+                <SpecimenTypeExpansion>Serum</SpecimenTypeExpansion>
+                <Priority>U</Priority>
+                <SampleTaker></SampleTaker>
+                <Profile>
+                    <Code>P</Code>
+                    <Expansion>Full Profile</Expansion>
+                    <Status>590</Status>
+                    <StatusExpansion>Partially Authorised</StatusExpansion>
+                    <Comments></Comments>
+                    <Test>
+                        <Code>CA</Code>
+                        <Expansion>Calcium</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>2.11</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:20</ResultDateTime>
+                        <RangeHigh>2.55</RangeHigh>
+                        <RangeLow>2.25</RangeLow>
+                        <AbnormalFlag>L</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber>1</PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>BILI</Code>
+                        <Expansion>Total Bilirubin</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>UNS</Value>
+                        <Status>350</Status>
+                        <StatusExpansion>Results   Received</StatusExpansion>
+                        <Comments>Venous sample. Please interpret with caution. The ranges given are for arterial blood only.</Comments>
+                        <ResultDateTime>2023-01-25T08:18:20</ResultDateTime>
+                        <RangeHigh>21</RangeHigh>
+                        <RangeLow>0</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>umol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber>2</PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>ALP</Code>
+                        <Expansion>Alkaline Phosphatase</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>111</Value>
+                        <Status>350</Status>
+                        <StatusExpansion>Results   Received</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:20</ResultDateTime>
+                        <RangeHigh>130</RangeHigh>
+                        <RangeLow>30</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>IU/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber>3</PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>TP</Code>
+                        <Expansion>Total Protein</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>67</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:20</ResultDateTime>
+                        <RangeHigh>80</RangeHigh>
+                        <RangeLow>60</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>g/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber>4</PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>CRE</Code>
+                        <Expansion>Creatinine</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>61</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:20</ResultDateTime>
+                        <RangeHigh>104</RangeHigh>
+                        <RangeLow>59</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>umol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>ALT</Code>
+                        <Expansion>Alanine Transaminase</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>551</Value>
+                        <Status>350</Status>
+                        <StatusExpansion>Results   Received</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:20</ResultDateTime>
+                        <RangeHigh>41</RangeHigh>
+                        <RangeLow>5</RangeLow>
+                        <AbnormalFlag>H</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>IU/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>SOD</Code>
+                        <Expansion>Sodium</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>143</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:19</ResultDateTime>
+                        <RangeHigh>146</RangeHigh>
+                        <RangeLow>133</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>POT</Code>
+                        <Expansion>Potassium</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>4.1</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:19</ResultDateTime>
+                        <RangeHigh>5.3</RangeHigh>
+                        <RangeLow>3.5</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>ALB</Code>
+                        <Expansion>Albumin</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>40</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:19</ResultDateTime>
+                        <RangeHigh>50</RangeHigh>
+                        <RangeLow>35</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>g/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                </Profile>
+                <Profile>
+                    <Code>LIP</Code>
+                    <Expansion>Lipid Profile</Expansion>
+                    <Status>590</Status>
+                    <StatusExpansion>Partially Authorised</StatusExpansion>
+                    <Comments></Comments>
+                    <Test>
+                        <Code>CHOL</Code>
+                        <Expansion>Cholesterol</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>5.2</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:19</ResultDateTime>
+                        <RangeHigh>5.2</RangeHigh>
+                        <RangeLow>0</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>HDL</Code>
+                        <Expansion>HDL Cholesterol</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>1.2</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:18:19</ResultDateTime>
+                        <RangeHigh></RangeHigh>
+                        <RangeLow></RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>TRIG</Code>
+                        <Expansion>Triglycerides</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>4.5</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments> Non-fasting samples for lipid evaluation may have falsely elevated triglyceride levels which will invalidate LDL Cholesterol estimations. Please fast patients if triglyceride measurement and/or LDL Cholesterol estimations are required.
+                        </Comments>
+                        <ResultDateTime>2023-01-25T08:18:19</ResultDateTime>
+                        <RangeHigh>2.3</RangeHigh>
+                        <RangeLow>0</RangeLow>
+                        <AbnormalFlag>H</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>NHDLC</Code>
+                        <Expansion>Non-HDL Cholesterol</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value></Value>
+                        <Status>100</Status>
+                        <StatusExpansion>Outstanding</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>0001-01-01T00:00:00</ResultDateTime>
+                        <RangeHigh></RangeHigh>
+                        <RangeLow></RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>HDLR</Code>
+                        <Expansion>Total CHOL/HDL ratio</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value></Value>
+                        <Status>100</Status>
+                        <StatusExpansion>Outstanding</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>0001-01-01T00:00:00</ResultDateTime>
+                        <RangeHigh></RangeHigh>
+                        <RangeLow></RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units></Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>LDL</Code>
+                        <Expansion>Calculated LDL Cholesterol</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>L2L</Value>
+                        <Status>350</Status>
+                        <StatusExpansion>Results   Received</StatusExpansion>
+                        <Comments> Calculated LDL values NOT VALID on samples with triglyceride levels greater than 4.4 mmol/L.</Comments>
+                        <ResultDateTime>2023-01-25T08:21:26</ResultDateTime>
+                        <RangeHigh></RangeHigh>
+                        <RangeLow></RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>mmol/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                </Profile>
+                <Test>
+                    <Code>PHOS</Code>
+                    <Expansion>Inorganic Phosphate</Expansion>
+                    <Abbreviation></Abbreviation>
+                    <Value>1.60</Value>
+                    <Status>350</Status>
+                    <StatusExpansion>Results   Received</StatusExpansion>
+                    <Comments></Comments>
+                    <ResultDateTime>2023-01-25T08:18:21</ResultDateTime>
+                    <RangeHigh>1.50</RangeHigh>
+                    <RangeLow>0.80</RangeLow>
+                    <AbnormalFlag>H</AbnormalFlag>
+                    <TestType>TT</TestType>
+                    <Units>mmol/L</Units>
+                    <AccreditationStatus></AccreditationStatus>
+                    <PlacerOrderNumber></PlacerOrderNumber>
+                </Test>
+                <Test>
+                    <Code>TSH</Code>
+                    <Expansion>TSH</Expansion>
+                    <Abbreviation></Abbreviation>
+                    <Value>1.0</Value>
+                    <Status>600</Status>
+                    <StatusExpansion>Medically Authorised</StatusExpansion>
+                    <Comments></Comments>
+                    <ResultDateTime>2023-01-25T08:21:27</ResultDateTime>
+                    <RangeHigh>4.2</RangeHigh>
+                    <RangeLow>0.27</RangeLow>
+                    <AbnormalFlag></AbnormalFlag>
+                    <TestType>TT</TestType>
+                    <Units>mU/L</Units>
+                    <AccreditationStatus></AccreditationStatus>
+                    <PlacerOrderNumber></PlacerOrderNumber>
+                </Test>
+                <Test>
+                    <Code>GFR</Code>
+                    <Expansion>Estimated GFR</Expansion>
+                    <Abbreviation></Abbreviation>
+                    <Value>&gt; 90</Value>
+                    <Status>600</Status>
+                    <StatusExpansion>Medically Authorised</StatusExpansion>
+                    <Comments>No ethnicity available for eGFR calculation. If patient of Afro-Caribbean descent then, multiply eGFR result by 1.159</Comments>
+                    <ResultDateTime>2023-01-25T08:18:21</ResultDateTime>
+                    <RangeHigh></RangeHigh>
+                    <RangeLow></RangeLow>
+                    <AbnormalFlag></AbnormalFlag>
+                    <TestType>TT</TestType>
+                    <Units>mL/min</Units>
+                    <AccreditationStatus></AccreditationStatus>
+                    <PlacerOrderNumber></PlacerOrderNumber>
+                </Test>
+                <Test>
+                    <Code>AKI</Code>
+                    <Expansion>Acute Kidney Injury stage</Expansion>
+                    <Abbreviation></Abbreviation>
+                    <Value>0</Value>
+                    <Status>600</Status>
+                    <StatusExpansion>Medically Authorised</StatusExpansion>
+                    <Comments></Comments>
+                    <ResultDateTime>2023-01-25T08:18:21</ResultDateTime>
+                    <RangeHigh></RangeHigh>
+                    <RangeLow></RangeLow>
+                    <AbnormalFlag></AbnormalFlag>
+                    <TestType>TT</TestType>
+                    <Units></Units>
+                    <AccreditationStatus></AccreditationStatus>
+                    <PlacerOrderNumber></PlacerOrderNumber>
+                </Test>
+                <Test>
+                    <Code>FT4</Code>
+                    <Expansion>Free T4</Expansion>
+                    <Abbreviation></Abbreviation>
+                    <Value></Value>
+                    <Status>200</Status>
+                    <StatusExpansion>In Progress</StatusExpansion>
+                    <Comments></Comments>
+                    <ResultDateTime>0001-01-01T00:00:00</ResultDateTime>
+                    <RangeHigh></RangeHigh>
+                    <RangeLow></RangeLow>
+                    <AbnormalFlag></AbnormalFlag>
+                    <TestType>TT</TestType>
+                    <Units></Units>
+                    <AccreditationStatus></AccreditationStatus>
+                    <PlacerOrderNumber></PlacerOrderNumber>
+                </Test>
+            </Specimen>
+            <Specimen>
+                <LRN>BS23,0000053.B</LRN>
+                <ExternalID></ExternalID>
+                <Status>600</Status>
+                <StatusExpansion>Medically Authorised</StatusExpansion>
+                <Comments></Comments>
+                <CollectionDateTime>2023-01-25T07:00:00</CollectionDateTime>
+                <ReceivedDateTime>2023-01-25T07:44:06</ReceivedDateTime>
+                <SpecimenTypeCode>BLD</SpecimenTypeCode>
+                <SpecimenTypeExpansion>EDTA (Whole Blood)</SpecimenTypeExpansion>
+                <Priority>U</Priority>
+                <SampleTaker></SampleTaker>
+                <Profile>
+                    <Code>FBC</Code>
+                    <Expansion>Full Blood Count</Expansion>
+                    <Status>600</Status>
+                    <StatusExpansion>Medically Authorised</StatusExpansion>
+                    <Comments></Comments>
+                    <Test>
+                        <Code>EOSA</Code>
+                        <Expansion>Eosinophils</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>0.01</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:50</ResultDateTime>
+                        <RangeHigh>0.50</RangeHigh>
+                        <RangeLow>0.05</RangeLow>
+                        <AbnormalFlag>L</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>LYMA</Code>
+                        <Expansion>Lymphocytes</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>0.63</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>3.00</RangeHigh>
+                        <RangeLow>1.00</RangeLow>
+                        <AbnormalFlag>L</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>HB</Code>
+                        <Expansion>Haemoglobin</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>71</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>170</RangeHigh>
+                        <RangeLow>130</RangeLow>
+                        <AbnormalFlag>L</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>g/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>RCC</Code>
+                        <Expansion>Red Cell Count</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>2.32</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>5.50</RangeHigh>
+                        <RangeLow>4.50</RangeLow>
+                        <AbnormalFlag>L</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*12/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>PLT</Code>
+                        <Expansion>Platelet Count</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>234</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>410</RangeHigh>
+                        <RangeLow>150</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>MCV</Code>
+                        <Expansion>Mean Cell Volume</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>90</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>101</RangeHigh>
+                        <RangeLow>83</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>fL</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>MONA</Code>
+                        <Expansion>Monocytes</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>0.31</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:50</ResultDateTime>
+                        <RangeHigh>1.00</RangeHigh>
+                        <RangeLow>0.20</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>HCT</Code>
+                        <Expansion>Haematocrit</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>21</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>50</RangeHigh>
+                        <RangeLow>40</RangeLow>
+                        <AbnormalFlag>L</AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>%</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>BASA</Code>
+                        <Expansion>Basophils</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>0.03</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:50</ResultDateTime>
+                        <RangeHigh>0.10</RangeHigh>
+                        <RangeLow>0.02</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>WCC</Code>
+                        <Expansion>White Cell Count</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>4.5</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>10.0</RangeHigh>
+                        <RangeLow>4.0</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>NEUA</Code>
+                        <Expansion>Neutrophils</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>3.51</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>7.00</RangeHigh>
+                        <RangeLow>2.00</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>NRBCA</Code>
+                        <Expansion>Nucleated red cell count</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>0.01</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:50</ResultDateTime>
+                        <RangeHigh></RangeHigh>
+                        <RangeLow></RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>10*9/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>MCH</Code>
+                        <Expansion>Mean Cell Hb</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>31.0</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:50</ResultDateTime>
+                        <RangeHigh>32.0</RangeHigh>
+                        <RangeLow>27.0</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>pg</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                    <Test>
+                        <Code>MCHC</Code>
+                        <Expansion>Mean Cell Hb%</Expansion>
+                        <Abbreviation></Abbreviation>
+                        <Value>340</Value>
+                        <Status>600</Status>
+                        <StatusExpansion>Medically Authorised</StatusExpansion>
+                        <Comments></Comments>
+                        <ResultDateTime>2023-01-25T08:46:49</ResultDateTime>
+                        <RangeHigh>345</RangeHigh>
+                        <RangeLow>315</RangeLow>
+                        <AbnormalFlag></AbnormalFlag>
+                        <TestType>TT</TestType>
+                        <Units>g/L</Units>
+                        <AccreditationStatus></AccreditationStatus>
+                        <PlacerOrderNumber></PlacerOrderNumber>
+                    </Test>
+                </Profile>
+            </Specimen>
+<Specimen>
+                <LRN>BS23,0000053.C</LRN>
+                <ExternalID></ExternalID>
+                <Status>590</Status>
+                <StatusExpansion>Partially Authorised</StatusExpansion>
+                <Comments>Fluid assays are not validated by the reagent supplier and are therefore outside the scope of our accredited service. This applies to all fluid tests.
+                </Comments>
+                <CollectionDateTime>2023-01-25T07:00:00</CollectionDateTime>
+                <ReceivedDateTime>2023-01-25T07:44:06</ReceivedDateTime>
+                <SpecimenTypeCode>SER</SpecimenTypeCode>
+                <SpecimenTypeExpansion>Serum</SpecimenTypeExpansion>
+                <Priority>U</Priority>
+                <SampleTaker></SampleTaker>
+                <Test>
+                    <Code>DXH</Code>
+                    <Expansion>Inorganic Phosphate</Expansion>
+                    <Abbreviation></Abbreviation>
+                    <Value>1.60</Value>
+                    <Status>350</Status>
+                    <StatusExpansion>Results   Received</StatusExpansion>
+                    <Comments></Comments>
+                    <ResultDateTime>2023-01-25T08:18:21</ResultDateTime>
+                    <RangeHigh>1.50</RangeHigh>
+                    <RangeLow>0.80</RangeLow>
+                    <AbnormalFlag>H</AbnormalFlag>
+                    <TestType>TT</TestType>
+                    <Units>mmol/L</Units>
+                    <AccreditationStatus></AccreditationStatus>
+                    <PlacerOrderNumber>999</PlacerOrderNumber>
+                </Test>
+</Specimen>
+        </Order>
+    </SharedOrder>
+    <Patient>
+        <DateOfBirth>1990-01-01</DateOfBirth>
+        <DateOfDeath>0001-01-01</DateOfDeath>
+        <Ethnicity></Ethnicity>
+        <FamilyName>VERSION</FamilyName>
+        <Gender></Gender>
+        <GivenName>Test</GivenName>
+        <MiddleName></MiddleName>
+        <MaidenName></MaidenName>
+        <NHSNumber></NHSNumber>
+        <Home></Home>
+        <WorkNumber></WorkNumber>
+        <Mobile></Mobile>
+        <Email></Email>
+        <WorkExtn></WorkExtn>
+        <PASNumber>TESTVERSION</PASNumber>
+        <RegisteredGP></RegisteredGP>
+        <Sex>1</Sex>
+        <Title>MR</Title>
+        <Addresses>
+            <Address>
+                <Line1>New Version Road</Line1>
+                <Line2></Line2>
+                <Line3>New Version Town</Line3>
+                <City>New Version County</City>
+                <Country>ENG</Country>
+                <Postcode>NN1 5BD</Postcode>
+            </Address>
+        </Addresses>
+        <PatientIdentifiers>
+            <PatientIdentifier>
+                <Code>PRN</Code>
+                <Identifier>TESTVERSION</Identifier>
+            </PatientIdentifier>
+        </PatientIdentifiers>
+        <AliasName />
+    </Patient>
+    <Clinician>
+        <ClinicianCode>C3183500</ClinicianCode>
+        <ClinicianTitle>0</ClinicianTitle>
+        <ClinicianSurname>Poyner</ClinicianSurname>
+        <ClinicianForename>FE</ClinicianForename>
+        <ClinicianNationalCode></ClinicianNationalCode>
+        <GMCNumber>C3183500</GMCNumber>
+        <LocationCode>CAS</LocationCode>
+        <LocationExpansion>Accident &amp; Emergency</LocationExpansion>
+        <LocationNationalCode>CAS</LocationNationalCode>
+        <AddressLine1>Northampton General Hospital</AddressLine1>
+        <AddressLine2>Cliftonville</AddressLine2>
+        <AddressLine3></AddressLine3>
+        <Town>Northampton</Town>
+        <PostCode>NN1 5BD</PostCode>
+        <Country></Country>
+        <Telephone></Telephone>
+        <Fax></Fax>
+    </Clinician>
+</OutboundResult>

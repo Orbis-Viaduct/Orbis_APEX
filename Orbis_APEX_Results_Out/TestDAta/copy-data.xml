@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundResult xmlns:bar="http://www.bar.org" xmlns:foo="http://www.foo.org/" >
+    <SharedOrder>
+      <OrderComments></OrderComments>
+      <OrderNumber>2752</OrderNumber>
+      <OrderDateTime>2023-06-20T17:46:53</OrderDateTime>
+      <ExternalID></ExternalID>
+      <Order Discipline="BS">
+        <LRN>BS23,0001010</LRN>
+        <Comments></Comments>
+        <Status>600</Status>
+        <StatusExpansion>Medically Authorised</StatusExpansion>
+        <SubDisciplineCode>BS</SubDisciplineCode>
+        <Discipline>BS</Discipline>
+        <Specimen>
+          <LRN>BS23,0001010.A</LRN>
+          <ExternalID></ExternalID>
+          <Status>600</Status>
+          <Comments></Comments>
+          <Test><Code>INR</Code><Expansion>INR</Expansion><Abbreviation>INR</Abbreviation><Value>0.9</Value><Status>600</Status><StatusExpansion>Medically Authorised</StatusExpansion><Comments></Comments><ResultDateTime>2023-06-20T17:48:17</ResultDateTime><RangeHigh>1.2</RangeHigh><RangeLow>0.9</RangeLow><AbnormalFlag></AbnormalFlag><TestType>TT</TestType><Units></Units><PlacerOrderNumber></PlacerOrderNumber></Test>
+          <CollectionDateTime>2023-06-20T07:00:00</CollectionDateTime>
+          <ReceivedDateTime>2023-06-20T17:45:25</ReceivedDateTime>
+          <SpecimenTypeCode>C</SpecimenTypeCode>
+          <SpecimenTypeExpansion>Citrated Plasma</SpecimenTypeExpansion>
+          <SampleTaker></SampleTaker>
+          <Priority>U</Priority>
+        </Specimen>
+      </Order>
+      <RFN></RFN>
+      <PlacerGroup></PlacerGroup>
+      <OrderCopies>INRc^ INR Copy^RAID^RAID INR </OrderCopies>
+    </SharedOrder>
+    <Patient>
+      <DateOfBirth>1930-12-13</DateOfBirth>
+      <DateOfDeath>0001-01-01</DateOfDeath>
+      <Ethnicity>A</Ethnicity>
+      <FamilyName>KANE</FamilyName>
+      <Gender>X</Gender>
+      <GivenName>HARRY</GivenName>
+      <MiddleName></MiddleName>
+      <MaidenName></MaidenName>
+      <NHSNumber>9449301212</NHSNumber>
+      <Home></Home>
+      <WorkNumber></WorkNumber>
+      <Mobile></Mobile>
+      <Email></Email>
+      <WorkExtn></WorkExtn>
+      <PASNumber>Zx00000099</PASNumber>
+      <RegisteredGP></RegisteredGP>
+      <Sex>M</Sex>
+      <Title>MR</Title>
+      <Addresses>
+        <Address>
+          <Line1>11 CLOUTSHAM STREET</Line1>
+          <Line2>NORTHAMPTON</Line2>
+          <Line3>NORTHAMPTONSHIRE</Line3>
+          <City></City>
+          <Country></Country>
+          <Postcode>NN1 3LL</Postcode>
+        </Address>
+      </Addresses>
+      <PatientIdentifiers>
+        <PatientIdentifier>
+          <Identifier>Zx00000099</Identifier>
+          <Code>PRN</Code>
+        </PatientIdentifier>
+        <PatientIdentifier>
+          <Identifier>MU00001740</Identifier>
+          <Code>PRN</Code>
+        </PatientIdentifier>
+        <PatientIdentifier>
+          <Identifier>MDH10409</Identifier>
+          <Code>PP</Code>
+        </PatientIdentifier>
+        <PatientIdentifier>
+          <Identifier>9449301212</Identifier>
+          <Code>NHS</Code>
+        </PatientIdentifier>
+      </PatientIdentifiers>
+      <AliasName/>
+    </Patient>
+    <Clinician>
+      <ClinicianCode>05D0578E</ClinicianCode>
+      <ClinicianTitle>0</ClinicianTitle>
+      <ClinicianSurname>Alexander</ClinicianSurname>
+      <ClinicianForename>Rachel</ClinicianForename>
+      <ClinicianNationalCode>05D0578E</ClinicianNationalCode>
+      <GMCNumber>05D0578E</GMCNumber>
+      <LocationCode>1VIS</LocationCode>
+      <LocationExpansion>1 Vista Road</LocationExpansion>
+      <LocationNationalCode>N12345</LocationNationalCode>
+      <AddressLine1>Vista Road</AddressLine1>
+      <AddressLine2>Newton-le-Willows</AddressLine2>
+      <AddressLine3></AddressLine3>
+      <Town></Town>
+      <PostCode></PostCode>
+      <Country></Country>
+      <Telephone></Telephone>
+      <Fax></Fax>
+    </Clinician>
+</OutboundResult>

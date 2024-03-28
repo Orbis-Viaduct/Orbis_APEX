@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//Maps/ORMLOG.map=UTF-16
+encoding//Maps/ORMO01Transformation.map=UTF-16
+encoding//Maps/ORMOB.map=UTF-16
+encoding//Maps/ORMRejectTransformation.map=UTF-16
+encoding//Maps/SetOrderConfigs.map=UTF-16
+encoding//Models/GenericMsg.parserecore=UTF-16
+encoding//Models/HL7_2.5_OML_O21.parserecore=UTF-16
+encoding//Models/HL7_2.5_ORM_O01.parserecore=UTF-16
+encoding//TestData/ORM_Test_1.txt=UTF-8
+encoding/LIMSOrderInbound.process=UTF-16
+encoding/LIMSOrderInbound.process_diagram=UTF-16
+encoding/MandatoryCheck.rule=UTF-16
+encoding/Orbis_APEX_Orders_In.process=UTF-16
+encoding/Orbis_APEX_Orders_In.process_diagram=UTF-16
+encoding/Orbis_LIMS_Orders.process=UTF-16
+encoding/Orbis_LIMS_Orders.process_diagram=UTF-16

@@ -1,0 +1,82 @@
+<OutboundOrder xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org">
+	<SharedOrder>
+		<DiagnosisComments>Clinical Details	Cytology Report Cytology Result: Suggested Management:	Comment:	Smear Taken:	Smear Reported:	Smear Taker Code: Reported Date:	Reporting Pathologist:	Kavitha Elaveni K E Snomed Coding:	</DiagnosisComments>
+		<ClinicalDetailsComments/>
+		<Location>L2</Location>
+		<OrderComments/>
+		<RequestingClinician>ann</RequestingClinician>
+		<OrderNumber/>
+		<OrderDate>2019-01-16T00:00:00</OrderDate>
+		<OrderTime>2019-01-17T23:58:53</OrderTime>
+		<ExternalID/>
+		<Category/>
+		<Pregnant/>
+		<LMP/>
+		<EDD/>
+		<Order>
+			<LRN>H19,00142</LRN>
+			<ExternalID/>
+			<Status>20</Status>
+			<Comments/>
+			<SubDisciplineCode>H</SubDisciplineCode>
+			<Discipline>CP</Discipline>
+			<ResultText>Clinical Details	Cytology Report Cytology Result: Suggested Management:	Comment:	Smear Taken:	Smear Reported:	Smear Taker Code: Reported Date:	Reporting Pathologist:	Kavitha Elaveni K E Snomed Coding:	</ResultText>
+			<Specimen>
+				<CollectionDate>0001-01-01T00:00:00</CollectionDate>
+				<CollectionTime>0001-01-01T00:00:00</CollectionTime>
+			</Specimen>
+		</Order>
+	</SharedOrder>
+	<Patient>
+		<AliasName>Saathvika</AliasName>
+		<Comments>Comment 3</Comments>
+		<DateOfBirth>1994-02-06T00:00:00+05:30</DateOfBirth>
+		<Ethnicity>Indian</Ethnicity>
+		<FamilyName>SAATHVIKA</FamilyName>
+		<Gender>F</Gender>
+		<GivenName>Saathvika</GivenName>
+		<MiddleName>Saathvika</MiddleName>
+		<MaidenName>SAATHVIKA</MaidenName>
+		<NHSNumber>1122222221</NHSNumber>
+		<Home/>
+		<WorkNumber/>
+		<Mobile/>
+		<Email/>
+		<WorkExtn/>
+		<PASNumber>asasa</PASNumber>
+		<RegisteredGP/>
+		<Sex>F</Sex>
+		<Suffix/>
+		<Title>4</Title>
+		<Ancillary>LIMS</Ancillary>
+		<LabSystem>811DXCLIMS</LabSystem>
+		<Addresses>
+			<Address>
+				<Line1>No 15 New Tank Street </Line1>
+				<Line2>Thirumurthy Street</Line2>
+				<Line3>Nungambakam</Line3>
+				<City>Chennai</City>
+				<Country>India.</Country>
+				<Postcode>600034</Postcode>
+			</Address>
+		</Addresses>
+	</Patient>
+	<Clinician>
+		<ClinicianCode/>
+		<ClinicianTitle/>
+		<ClinicianSurname/>
+		<ClinicianForename/>
+		<ClinicianNationalCode/>
+		<LocationCode/>
+		<LocationExpansion/>
+		<LocationNationalCode/>
+		<AddressLine1/>
+		<AddressLine2/>
+		<AddressLine3/>
+		<Town/>
+		<PostCode/>
+		<Country/>
+		<Telephone/>
+		<Fax/>
+	</Clinician>
+</OutboundOrder>

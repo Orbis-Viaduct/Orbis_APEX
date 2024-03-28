@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OutboundOrder xmlns:bar="http://www.bar.org" xmlns:foo="http://www.foo.org/">
+	<SharedOrder>
+		<DiagnosisComments>Specimen Type:		PAP Smear
+Patient ID:			JAI0001                          
+Patient NHS:		2857255233
+Patient Surname:		      
+Patient Forename:	RAMA
+Patient Sex:		Female   
+Order No:			YT19,0000626X                    
+Specimen No:		646777
+Specimen Status:		Specimen Processing completed
+Report Pathologist:	 
+Screen Date/Time:	 
+Screener names:		 
+Screener initials:		 
+Procedure:			HMWCK (34BE12)
+Reportable comment:	 
+Infection Result:		 
+Management code:	 
+Cy Result:			 
+Document Date:		29/07/2019
+Systimenow:		18:07
+OD Timeofbirth:		 
+System Printtime:	11:20
+ </DiagnosisComments>
+		<ClinicalDetailsComments></ClinicalDetailsComments>
+		<Location>DLF</Location>
+		<OrderComments></OrderComments>
+		<RequestingClinician>ABBO</RequestingClinician>
+		<OrderNumber></OrderNumber>
+		<OrderDate>2019-07-29T00:00:00</OrderDate>
+		<OrderTime>2019-07-29T11:15:04</OrderTime>
+		<ExternalID></ExternalID>
+		<Category>CPTEST3</Category>
+		<Pregnant></Pregnant>
+		<LMP></LMP>
+		<EDD></EDD>
+		<Order>
+			<LRN>YT19,0000626X</LRN>
+			<ExternalID></ExternalID>
+			<Status>50</Status>
+			<Comments></Comments>
+			<SubDisciplineCode>YT</SubDisciplineCode>
+			<Discipline>CP</Discipline>
+			<ResultText>Specimen Type:		PAP Smear
+Patient ID:			JAI0001                          
+Patient NHS:		2857255233
+Patient Surname:		      
+Patient Forename:	RAMA
+Patient Sex:		Female   
+Order No:			YT19,0000626X                    
+Specimen No:		646777
+Specimen Status:		Specimen Processing completed
+Report Pathologist:	 
+Screen Date/Time:	 
+Screener names:		 
+Screener initials:		 
+Procedure:			HMWCK (34BE12)
+Reportable comment:	 
+Infection Result:		 
+Management code:	 
+Cy Result:			 
+Document Date:		29/07/2019
+Systimenow:		18:07
+OD Timeofbirth:		 
+System Printtime:	11:20
+ </ResultText>
+			<Specimen>
+				<CollectionDate>0001-01-01T00:00:00</CollectionDate>
+				<CollectionTime>0001-01-01T00:00:00</CollectionTime>
+			</Specimen>
+		</Order>
+	</SharedOrder>
+	<Patient>
+		<AliasName>
+			<AkaNames>
+				<GivenName>Shree</GivenName>
+				<FamilyName>SHR</FamilyName>
+			</AkaNames>
+		</AliasName>
+		<Comments></Comments>
+		<DateOfBirth>1970-01-01T00:00:00+05:30</DateOfBirth>
+		<Ethnicity>Chinese</Ethnicity>
+		<FamilyName>JAYA</FamilyName>
+		<Gender>F</Gender>
+		<GivenName>RAMA</GivenName>
+		<MiddleName>Shree</MiddleName>
+		<MaidenName>JA</MaidenName>
+		<NHSNumber>2857255233</NHSNumber>
+		<Home>976 5431 8652</Home>
+		<WorkNumber>746 1853 2658</WorkNumber>
+		<Mobile>789 7537 4175</Mobile>
+		<Email>Jai@gmail.com</Email>
+		<WorkExtn>8451</WorkExtn>
+		<PASNumber>JAI0001</PASNumber>
+		<RegisteredGP></RegisteredGP>
+		<Sex>F</Sex>
+		<Suffix>Ms</Suffix>
+		<Title>4</Title>
+		<Ancillary>LIMS</Ancillary>
+		<LabSystem>LocalDXCLIMS</LabSystem>
+		<Addresses>
+			<Address>
+				<Line1>84 Cloch Rd</Line1>
+				<Line2>Harrington West</Line2>
+				<Line3>ST KEVERNE</Line3>
+				<City>Connecticut</City>
+				<Country>ENGLAND</Country>
+				<Postcode>TR12 2FX</Postcode>
+			</Address>
+		</Addresses>
+	</Patient>
+	<Clinician>
+		<ClinicianCode></ClinicianCode>
+		<ClinicianTitle></ClinicianTitle>
+		<ClinicianSurname></ClinicianSurname>
+		<ClinicianForename></ClinicianForename>
+		<ClinicianNationalCode></ClinicianNationalCode>
+		<LocationCode></LocationCode>
+		<LocationExpansion></LocationExpansion>
+		<LocationNationalCode></LocationNationalCode>
+		<AddressLine1></AddressLine1>
+		<AddressLine2></AddressLine2>
+		<AddressLine3></AddressLine3>
+		<Town></Town>
+		<PostCode></PostCode>
+		<Country></Country>
+		<Telephone></Telephone>
+		<Fax></Fax>
+	</Clinician>
+</OutboundOrder>

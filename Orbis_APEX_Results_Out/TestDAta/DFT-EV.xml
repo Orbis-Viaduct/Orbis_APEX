@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<OutboundResult xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org">
+  <SharedOrder>
+    <OrderComments></OrderComments>
+    <ClinicalDetailsComments></ClinicalDetailsComments>
+    <OrderNumber>2999</OrderNumber>
+    <OrderDateTime>2023-09-08T11:52:05</OrderDateTime>
+    <OrderCopies></OrderCopies>
+    <ExternalID></ExternalID>
+    <PlacerGroup></PlacerGroup>
+    <RFN></RFN>
+    <PatientCategoryCode>N</PatientCategoryCode>
+    <ClinicalDiagnosisList />
+    <ClinicalDetailsList />
+    <Order Discipline="BS">
+      <LRN>BS23,0001256</LRN>
+      <Status>600</Status>
+      <StatusExpansion>Medically Authorised</StatusExpansion>
+      <Comments></Comments>
+      <SubDisciplineCode>BS</SubDisciplineCode>
+      <Discipline>BS</Discipline>
+      <Specimen>
+        <LRN>BS23,0001256.A</LRN>
+        <ExternalID></ExternalID>
+        <Status>600</Status>
+        <StatusExpansion>Medically Authorised</StatusExpansion>
+        <Comments></Comments>
+        <CollectionDateTime>2023-09-07T00:10:00</CollectionDateTime>
+        <ReceivedDateTime>2023-09-08T11:50:00</ReceivedDateTime>
+        <SpecimenTypeCode>P</SpecimenTypeCode>
+        <SpecimenTypeExpansion>Plasma</SpecimenTypeExpansion>
+        <Priority>R</Priority>
+        <SampleTaker></SampleTaker>
+      </Specimen>
+      <ResultText>Laboratory Number:  BS23,0001256.A
+Collected:                
+Specimen Type:      
+
+Growth Hormone
+Specimen       Offset GLU (mmol/L) HGH CORT
+BS23,0001256.A 0      5.0                  
+BS23,0001256.B 0                   4.0 93  
+BS23,0001257.A 30     5.0                  
+BS23,0001257.B 30                  2.0 100 
+BS23,0001258.A 60     5.0                  
+BS23,0001258.B 60                  5.2 108 
+BS23,0001259.A 90     5.0                  
+BS23,0001259.B 90                  5.0 108 
+BS23,0001260.A 120    4.3                  
+BS23,0001260.B 120                 6.0 99  
+</ResultText>
+    </Order>
+  </SharedOrder>
+   <Patient>
+    <DateOfBirth>1930-12-13</DateOfBirth>
+    <DateOfDeath>0001-01-01</DateOfDeath>
+    <Ethnicity>A</Ethnicity>
+    <FamilyName>KANE</FamilyName>
+    <Gender>X</Gender>
+    <GivenName>HARRY</GivenName>
+    <MiddleName></MiddleName>
+    <MaidenName></MaidenName>
+    <NHSNumber>9449301212</NHSNumber>
+    <Home></Home>
+    <WorkNumber></WorkNumber>
+    <Mobile></Mobile>
+    <Email></Email>
+    <WorkExtn></WorkExtn>
+    <PASNumber>Zx00000099</PASNumber>
+    <RegisteredGP></RegisteredGP>
+    <Sex>M</Sex>
+    <Title>MR</Title>
+    <Addresses>
+      <Address>
+        <Line1>11 CLOUTSHAM STREET</Line1>
+        <Line2>NORTHAMPTON</Line2>
+        <Line3>NORTHAMPTONSHIRE</Line3>
+        <City></City>
+        <Country></Country>
+        <Postcode>NN1 3LL</Postcode>
+      </Address>
+    </Addresses>
+    <PatientIdentifiers>
+      <PatientIdentifier>
+        <Identifier>Zx00000099</Identifier>
+        <Code>PRN</Code>
+      </PatientIdentifier>
+      <PatientIdentifier>
+        <Identifier>MU00001740</Identifier>
+        <Code>PRN</Code>
+      </PatientIdentifier>
+      <PatientIdentifier>
+        <Identifier>MDH10409</Identifier>
+        <Code>PP</Code>
+      </PatientIdentifier>
+      <PatientIdentifier>
+        <Identifier>9449301212</Identifier>
+        <Code>NHS</Code>
+      </PatientIdentifier>
+    </PatientIdentifiers>
+    <AliasName/>
+  </Patient>
+  <Clinician>
+    <ClinicianCode>05D0578E</ClinicianCode>
+    <ClinicianTitle>0</ClinicianTitle>
+    <ClinicianSurname>Alexander</ClinicianSurname>
+    <ClinicianForename>Rachel</ClinicianForename>
+    <ClinicianNationalCode>05D0578E</ClinicianNationalCode>
+    <GMCNumber>05D0578E</GMCNumber>
+    <LocationCode>1VIS</LocationCode>
+    <LocationExpansion>1 Vista Road</LocationExpansion>
+    <LocationNationalCode>N12345</LocationNationalCode>
+    <AddressLine1>Vista Road</AddressLine1>
+    <AddressLine2>Newton-le-Willows</AddressLine2>
+    <AddressLine3></AddressLine3>
+    <Town></Town>
+    <PostCode></PostCode>
+    <Country></Country>
+    <Telephone></Telephone>
+    <Fax></Fax>
+  </Clinician>
+</OutboundResult>
