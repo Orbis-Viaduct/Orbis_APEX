@@ -1,5 +1,6 @@
+deploy.process.instances.Orbis_APEX_Results_Out=1
 deploy.process.instances.ResultTransform=1
-deploy.profiles=,DEDALUS_LIMS
-deploy.profiles.connector.DEDALUS_LIMS=DAWN_Q,DAWN_Q|Update_ORU_OB_Extract_WS1,Update_ORM_OB_Extract_WS|LIMS_ORU_HL7_OUT_Q,LIMS_ORU_HL7_OUT_Q|LIMS_Error_Connector,LIMS_PROC_ERR_PROC_OUT|LIMS_ORU_OB_LOG,LIMS_ORU_OB_LOG|Update_ORU_OB_Extract_WS,Update_ORM_OB_Extract_WS|RAID_Q,LIMS_RAID_Q|
-deploy.profiles.listeners.DEDALUS_LIMS=LIMS_ORU_Q_IN_OB
+deploy.profiles=,ORBIS_APEX
+deploy.profiles.connector.ORBIS_APEX=ORBIS HL7 OUT,APEX_TO_ORBIS_HL7|LOG_RESULT,RESULT_LOG|
+deploy.profiles.listeners.ORBIS_APEX=APEX_RESULTS_HL7
 eclipse.preferences.version=1
