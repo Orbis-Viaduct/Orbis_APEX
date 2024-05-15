@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?>
+<pse:ParserPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:pse="http://www.bridgeforward.net/2007/ParserEcore" name="lookup_external" nsURI="com.lookupdata.LOOKUPDATA_EXTERNAL" nsPrefix="Lookup_external">
+  <eClassifiers xsi:type="pse:ParserContainer" name="LookupData" root="true">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="lookupdata" upperBound="-1" eType="//LookupTable" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="pse:ParserContainer" name="LookupTable">
+    <eStructuralFeatures xsi:type="pse:ParserField" name="cfgCode" delimitedEncodingRule="//externalLookupDelimiter">
+      <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xsi:type="pse:ParserField" name="cacheLoadMode" delimitedEncodingRule="//externalLookupDelimiter">
+      <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xsi:type="pse:ParserField" name="isKeyExist" delimitedEncodingRule="//externalLookupDelimiter">
+      <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="lookupValues" upperBound="-1" eType="//LookupValue" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="pse:ParserContainer" name="LookupValue">
+    <eStructuralFeatures xsi:type="pse:ParserField" name="key" delimitedEncodingRule="//externalLookupDelimiter">
+      <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xsi:type="pse:ParserField" name="value" delimitedEncodingRule="//externalLookupDelimiter">
+      <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xsi:type="pse:ParserField" name="lifetime" delimitedEncodingRule="//externalLookupDelimiter">
+      <eType xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+  </eClassifiers>
+  <delimitedEncodingRules name="externalLookupDelimiter" delimiter="," delimsForOptionalEmptyElements="false"/>
+</pse:ParserPackage>

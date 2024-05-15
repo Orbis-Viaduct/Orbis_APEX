@@ -1,0 +1,6 @@
+deploy.process.instances.Orbis_APEX_Notifications=1
+deploy.process.instances.OrderTransform=1
+deploy.profiles=,ORBIS_APEX
+deploy.profiles.connector.ORBIS_APEX=LIMS_ORM_HL7_OUT_Q,APEX_TO_ORBIS_HL7|
+deploy.profiles.listeners.ORBIS_APEX=APEX_ORM_Q_OUT
+eclipse.preferences.version=1
