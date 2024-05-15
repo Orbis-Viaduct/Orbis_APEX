@@ -1,0 +1,52 @@
+[13:08:17] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[13:08:17] Receiver launched.
+[13:08:26] Listening on port [3010] started.
+[13:08:42] Encoding=Western European (Windows) (1252).
+[13:08:42] Connected with client from 127.0.0.1:55286
+[13:08:42] Connected with client from 127.0.0.1:55287
+[13:08:42] Connected with client from 127.0.0.1:55288
+[13:08:42] Connected with client from 127.0.0.1:55289
+[13:08:42] Connection from 127.0.0.1:55286 disconnected.
+[13:08:42] Connected with client from 127.0.0.1:55290
+[13:08:42] Connected with client from 127.0.0.1:55291
+[13:08:42] Connection from 127.0.0.1:55287 disconnected.
+[13:08:42] Connected with client from 127.0.0.1:55292
+[13:08:42] Connection from 127.0.0.1:55288 disconnected.
+[13:08:42] Connection from 127.0.0.1:55289 disconnected.
+[13:08:42] Connected with client from 127.0.0.1:55293
+[13:08:42] Connected with client from 127.0.0.1:55294
+[13:08:43] Connection from 127.0.0.1:55290 disconnected.
+[13:08:43] Connection from 127.0.0.1:55291 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55295
+[13:08:43] Connection from 127.0.0.1:55292 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55296
+[13:08:43] Connected with client from 127.0.0.1:55297
+[13:08:43] Connection from 127.0.0.1:55293 disconnected.
+[13:08:43] Connection from 127.0.0.1:55294 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55298
+[13:08:43] Connection from 127.0.0.1:55295 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55299
+[13:08:43] Connection from 127.0.0.1:55296 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55300
+[13:08:43] Connection from 127.0.0.1:55297 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55301
+[13:08:43] Connected with client from 127.0.0.1:55302
+[13:08:43] Connection from 127.0.0.1:55298 disconnected.
+[13:08:43] Connection from 127.0.0.1:55299 disconnected.
+[13:08:43] Connection from 127.0.0.1:55300 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55303
+[13:08:43] Connection from 127.0.0.1:55301 disconnected.
+[13:08:43] Connected with client from 127.0.0.1:55304
+[13:08:43] Connection from 127.0.0.1:55302 disconnected.
+[13:08:43] Connection from 127.0.0.1:55303 disconnected.
+[13:08:44] Connection from 127.0.0.1:55304 disconnected.
+[13:09:00] Connected with client from 127.0.0.1:55325
+[13:09:00] Connection from 127.0.0.1:55325 disconnected.
+[13:10:00] Connected with client from 127.0.0.1:55369
+[13:10:00] Connection from 127.0.0.1:55369 disconnected.
+[13:11:00] Connected with client from 127.0.0.1:55415
+[13:11:00] Connection from 127.0.0.1:55415 disconnected.
+[13:12:00] Connected with client from 127.0.0.1:55460
+[13:12:00] Connection from 127.0.0.1:55460 disconnected.
+[13:33:26] Listening on port [3010] stopped.
+[13:33:27] Receiver quited.

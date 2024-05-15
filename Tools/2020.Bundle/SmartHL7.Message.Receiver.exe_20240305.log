@@ -1,0 +1,22 @@
+[11:49:15] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[11:49:15] Receiver launched.
+[11:49:22] Listening on port [55550] started.
+[11:49:26] Encoding=Western European (Windows) (1252).
+[11:49:26] Connected with client from 127.0.0.1:59845
+[11:49:26] Connection from 127.0.0.1:59845 disconnected.
+[11:49:26] Connected with client from 127.0.0.1:59850
+[11:49:57] Connection from 127.0.0.1:59850 disconnected.
+[11:49:57] Connected with client from 127.0.0.1:60310
+[11:50:27] Connection from 127.0.0.1:60310 disconnected.
+[11:50:27] Connected with client from 127.0.0.1:60775
+[11:50:37] Object reference not set to an instance of an object.
+[11:50:42] Object reference not set to an instance of an object.
+[11:50:45] Object reference not set to an instance of an object.
+[11:50:51] Listening on port [55550] stopped.
+[11:50:51] Connection from 127.0.0.1:60775 disconnected.
+[11:50:53] Listening on port [55550] started.
+[11:50:57] Connected with client from 127.0.0.1:61229
+[11:51:27] Connection from 127.0.0.1:61229 disconnected.
+[11:51:32] Object reference not set to an instance of an object.
+[11:56:23] Listening on port [55550] stopped.
+[11:56:23] Receiver quited.

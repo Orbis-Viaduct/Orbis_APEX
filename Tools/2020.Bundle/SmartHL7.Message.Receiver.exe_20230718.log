@@ -1,0 +1,38 @@
+[15:27:45] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[15:27:45] Receiver launched.
+[15:28:11] Listening on port [3010] started.
+[15:28:40] Encoding=Western European (Windows) (1252).
+[15:28:40] Connected with client from 127.0.0.1:53187
+[15:28:40] Connected with client from 127.0.0.1:53188
+[15:28:40] Connected with client from 127.0.0.1:53189
+[15:28:40] Connected with client from 127.0.0.1:53190
+[15:28:40] Connection from 127.0.0.1:53187 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53191
+[15:28:40] Connection from 127.0.0.1:53188 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53192
+[15:28:40] Connection from 127.0.0.1:53189 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53193
+[15:28:40] Connection from 127.0.0.1:53190 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53194
+[15:28:40] Connection from 127.0.0.1:53191 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53195
+[15:28:40] Connection from 127.0.0.1:53192 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53196
+[15:28:40] Connection from 127.0.0.1:53193 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53197
+[15:28:40] Connection from 127.0.0.1:53194 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53198
+[15:28:40] Connection from 127.0.0.1:53195 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53199
+[15:28:40] Connection from 127.0.0.1:53196 disconnected.
+[15:28:40] Connected with client from 127.0.0.1:53200
+[15:28:40] Connection from 127.0.0.1:53197 disconnected.
+[15:28:41] Connection from 127.0.0.1:53198 disconnected.
+[15:28:41] Connection from 127.0.0.1:53199 disconnected.
+[15:28:41] Connection from 127.0.0.1:53200 disconnected.
+[15:29:00] Connected with client from 127.0.0.1:53209
+[15:29:00] Connection from 127.0.0.1:53209 disconnected.
+[15:30:00] Connected with client from 127.0.0.1:53233
+[15:30:00] Connection from 127.0.0.1:53233 disconnected.
+[17:29:50] Listening on port [3010] stopped.
+[17:29:51] Receiver quited.

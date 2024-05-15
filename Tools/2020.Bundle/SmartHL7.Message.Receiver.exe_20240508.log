@@ -1,0 +1,10 @@
+[14:48:27] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[14:48:28] Receiver launched.
+[14:48:31] Listening on port [8032] started.
+[14:48:56] Encoding=Western European (Windows) (1252).
+[14:48:56] Connected with client from 127.0.0.1:54904
+[14:48:56] Connection from 127.0.0.1:54904 disconnected.
+[14:49:04] Connected with client from 127.0.0.1:54938
+[16:34:21] Listening on port [8032] stopped.
+[16:34:21] Connection from 127.0.0.1:54938 disconnected.
+[16:34:21] Receiver quited.

@@ -1,0 +1,89 @@
+[11:54:56] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[11:54:57] Receiver launched.
+[11:55:07] Listening on port [8030] started.
+[14:16:57] Encoding=Western European (Windows) (1252).
+[14:16:57] Connected with client from 127.0.0.1:58317
+[14:16:57] Connected with client from 127.0.0.1:58318
+[14:16:57] Connection from 127.0.0.1:58317 disconnected.
+[14:17:28] Connection from 127.0.0.1:58318 disconnected.
+[14:17:28] Connected with client from 127.0.0.1:58337
+[14:17:35] Object reference not set to an instance of an object.
+[14:17:58] Connection from 127.0.0.1:58337 disconnected.
+[14:17:59] Connected with client from 127.0.0.1:58354
+[14:18:02] Object reference not set to an instance of an object.
+[14:18:07] Object reference not set to an instance of an object.
+[14:18:13] Listening on port [8030] stopped.
+[14:18:13] Connection from 127.0.0.1:58354 disconnected.
+[14:18:14] Listening on port [8030] started.
+[14:18:28] Connected with client from 127.0.0.1:58372
+[14:18:58] Connection from 127.0.0.1:58372 disconnected.
+[14:18:59] Connected with client from 127.0.0.1:58392
+[14:18:59] Connection from 127.0.0.1:58392 disconnected.
+[14:18:59] Connected with client from 127.0.0.1:58393
+[14:19:09] Object reference not set to an instance of an object.
+[14:19:15] Object reference not set to an instance of an object.
+[14:19:23] Connection from 127.0.0.1:58393 disconnected.
+[14:19:32] Connected with client from 127.0.0.1:58413
+[14:19:32] Connection from 127.0.0.1:58413 disconnected.
+[14:19:33] Object reference not set to an instance of an object.
+[14:19:55] Connected with client from 127.0.0.1:58430
+[14:19:56] Connection from 127.0.0.1:58430 disconnected.
+[14:20:05] Object reference not set to an instance of an object.
+[14:20:10] Listening on port [8030] stopped.
+[14:20:40] Listening on port [8030] started.
+[14:20:48] Connected with client from 127.0.0.1:58459
+[14:20:48] Connection from 127.0.0.1:58459 disconnected.
+[14:20:52] Object reference not set to an instance of an object.
+[14:26:15] Connected with client from 127.0.0.1:58676
+[14:26:15] Connection from 127.0.0.1:58676 disconnected.
+[14:26:16] Connected with client from 127.0.0.1:58677
+[14:26:17] Object reference not set to an instance of an object.
+[14:26:46] Connection from 127.0.0.1:58677 disconnected.
+[14:26:46] Connected with client from 127.0.0.1:58704
+[14:26:48] Object reference not set to an instance of an object.
+[14:26:54] Listening on port [8030] stopped.
+[14:26:54] Connection from 127.0.0.1:58704 disconnected.
+[14:26:56] Receiver quited.
+[14:27:08] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[14:27:08] Receiver launched.
+[14:27:17] Listening on port [8030] started.
+[14:27:17] Encoding=Western European (Windows) (1252).
+[14:27:17] Connected with client from 127.0.0.1:58732
+[14:27:37] Connection from 127.0.0.1:58732 disconnected.
+[14:27:52] Connected with client from 127.0.0.1:58765
+[14:27:53] Connection from 127.0.0.1:58765 disconnected.
+[14:27:53] Connected with client from 127.0.0.1:58766
+[14:27:54] Object reference not set to an instance of an object.
+[14:28:23] Connection from 127.0.0.1:58766 disconnected.
+[14:28:43] Listening on port [8030] stopped.
+[14:28:47] Listening on port [7502] started.
+[14:29:03] Connected with client from 127.0.0.1:58818
+[14:29:03] Connection from 127.0.0.1:58818 disconnected.
+[14:29:13] Object reference not set to an instance of an object.
+[14:29:24] Listening on port [7502] stopped.
+[14:35:37] Listening on port [7502] started.
+[14:35:39] Connected with client from 127.0.0.1:59052
+[14:35:39] Connection from 127.0.0.1:59052 disconnected.
+[14:37:07] Connected with client from 127.0.0.1:59119
+[14:37:07] Connection from 127.0.0.1:59119 disconnected.
+[14:40:15] Listening on port [7502] stopped.
+[14:40:18] Listening on port [8030] started.
+[14:40:57] Connected with client from 127.0.0.1:59279
+[16:22:50] Listening on port [8030] stopped.
+[16:22:50] Connection from 127.0.0.1:59279 disconnected.
+[16:24:13] Listening on port [8031] started.
+[16:27:24] Listening on port [8031] stopped.
+[16:27:30] Listening on port [8032] started.
+[16:29:15] Connected with client from 127.0.0.1:63851
+[16:31:37] Connection from 127.0.0.1:63851 disconnected.
+[16:37:57] Connected with client from 127.0.0.1:64208
+[16:38:42] Connection from 127.0.0.1:64208 disconnected.
+[16:38:54] Connected with client from 127.0.0.1:64255
+[16:48:38] Connected with client from 127.0.0.1:64628
+[16:51:36] Connection from 127.0.0.1:64628 disconnected.
+[16:53:03] Connected with client from 127.0.0.1:64803
+[16:54:56] Connection from 127.0.0.1:64803 disconnected.
+[16:55:28] Connected with client from 127.0.0.1:64919
+[17:05:33] Listening on port [8032] stopped.
+[17:05:33] Connection from 127.0.0.1:64919 disconnected.
+[17:05:33] Receiver quited.

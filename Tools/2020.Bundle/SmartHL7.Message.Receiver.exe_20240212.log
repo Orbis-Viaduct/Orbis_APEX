@@ -1,0 +1,692 @@
+[13:51:02] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[13:51:02] Receiver launched.
+[13:56:56] Listening on port [7502] started.
+[13:57:02] Encoding=Western European (Windows) (1252).
+[13:57:02] Connected with client from 127.0.0.1:63013
+[13:57:02] Connection from 127.0.0.1:63013 disconnected.
+[13:58:01] Connected with client from 127.0.0.1:63048
+[13:58:01] Connection from 127.0.0.1:63048 disconnected.
+[13:59:47] Connected with client from 127.0.0.1:63104
+[13:59:47] Connection from 127.0.0.1:63104 disconnected.
+[14:04:49] Connected with client from 127.0.0.1:63273
+[14:04:49] Connection from 127.0.0.1:63273 disconnected.
+[14:09:14] Connected with client from 127.0.0.1:63441
+[14:09:15] Connection from 127.0.0.1:63441 disconnected.
+[14:16:12] Connected with client from 127.0.0.1:63690
+[14:16:12] Connection from 127.0.0.1:63690 disconnected.
+[14:27:29] Connected with client from 127.0.0.1:64066
+[14:27:29] Connection from 127.0.0.1:64066 disconnected.
+[14:27:29] Connected with client from 127.0.0.1:64068
+[14:27:29] Connection from 127.0.0.1:64068 disconnected.
+[14:27:29] Connected with client from 127.0.0.1:64070
+[14:27:30] Connection from 127.0.0.1:64070 disconnected.
+[14:27:30] Connected with client from 127.0.0.1:64072
+[14:27:30] Connection from 127.0.0.1:64072 disconnected.
+[14:27:30] Connected with client from 127.0.0.1:64074
+[14:27:31] Connection from 127.0.0.1:64074 disconnected.
+[14:27:31] Connected with client from 127.0.0.1:64076
+[14:27:31] Connection from 127.0.0.1:64076 disconnected.
+[14:27:31] Connected with client from 127.0.0.1:64078
+[14:27:31] Connection from 127.0.0.1:64078 disconnected.
+[14:27:32] Connected with client from 127.0.0.1:64080
+[14:27:32] Connection from 127.0.0.1:64080 disconnected.
+[14:27:32] Connected with client from 127.0.0.1:64082
+[14:27:32] Connection from 127.0.0.1:64082 disconnected.
+[14:27:32] Connected with client from 127.0.0.1:64084
+[14:27:33] Connection from 127.0.0.1:64084 disconnected.
+[14:27:33] Connected with client from 127.0.0.1:64086
+[14:27:33] Connection from 127.0.0.1:64086 disconnected.
+[14:27:33] Connected with client from 127.0.0.1:64088
+[14:27:34] Connection from 127.0.0.1:64088 disconnected.
+[14:27:34] Connected with client from 127.0.0.1:64093
+[14:27:34] Connection from 127.0.0.1:64093 disconnected.
+[14:27:34] Connected with client from 127.0.0.1:64095
+[14:27:34] Connection from 127.0.0.1:64095 disconnected.
+[14:27:35] Connected with client from 127.0.0.1:64097
+[14:27:35] Connection from 127.0.0.1:64097 disconnected.
+[14:27:35] Connected with client from 127.0.0.1:64102
+[14:27:35] Connection from 127.0.0.1:64102 disconnected.
+[14:27:36] Connected with client from 127.0.0.1:64104
+[14:27:36] Connection from 127.0.0.1:64104 disconnected.
+[14:27:36] Connected with client from 127.0.0.1:64107
+[14:27:36] Connection from 127.0.0.1:64107 disconnected.
+[14:27:36] Connected with client from 127.0.0.1:64109
+[14:27:37] Connection from 127.0.0.1:64109 disconnected.
+[14:27:37] Connected with client from 127.0.0.1:64111
+[14:27:37] Connection from 127.0.0.1:64111 disconnected.
+[14:27:37] Connected with client from 127.0.0.1:64113
+[14:27:37] Connection from 127.0.0.1:64113 disconnected.
+[14:27:38] Connected with client from 127.0.0.1:64115
+[14:27:38] Connection from 127.0.0.1:64115 disconnected.
+[14:27:38] Connected with client from 127.0.0.1:64117
+[14:27:38] Connection from 127.0.0.1:64117 disconnected.
+[14:27:39] Connected with client from 127.0.0.1:64119
+[14:27:39] Connection from 127.0.0.1:64119 disconnected.
+[14:27:39] Connected with client from 127.0.0.1:64121
+[14:27:39] Connection from 127.0.0.1:64121 disconnected.
+[14:27:40] Connected with client from 127.0.0.1:64123
+[14:27:40] Connection from 127.0.0.1:64123 disconnected.
+[14:27:40] Connected with client from 127.0.0.1:64125
+[14:27:40] Connection from 127.0.0.1:64125 disconnected.
+[14:27:40] Connected with client from 127.0.0.1:64127
+[14:27:41] Connection from 127.0.0.1:64127 disconnected.
+[14:27:41] Connected with client from 127.0.0.1:64129
+[14:27:41] Connection from 127.0.0.1:64129 disconnected.
+[14:27:41] Connected with client from 127.0.0.1:64131
+[14:27:42] Connection from 127.0.0.1:64131 disconnected.
+[14:27:42] Connected with client from 127.0.0.1:64133
+[14:27:42] Connection from 127.0.0.1:64133 disconnected.
+[14:27:42] Connected with client from 127.0.0.1:64135
+[14:27:43] Connection from 127.0.0.1:64135 disconnected.
+[14:27:43] Connected with client from 127.0.0.1:64137
+[14:27:43] Connection from 127.0.0.1:64137 disconnected.
+[14:27:43] Connected with client from 127.0.0.1:64139
+[14:27:43] Connection from 127.0.0.1:64139 disconnected.
+[14:27:44] Connected with client from 127.0.0.1:64141
+[14:27:44] Connection from 127.0.0.1:64141 disconnected.
+[14:27:44] Connected with client from 127.0.0.1:64143
+[14:27:44] Connection from 127.0.0.1:64143 disconnected.
+[14:27:45] Connected with client from 127.0.0.1:64145
+[14:27:45] Connection from 127.0.0.1:64145 disconnected.
+[14:27:45] Connected with client from 127.0.0.1:64147
+[14:27:45] Connection from 127.0.0.1:64147 disconnected.
+[14:27:46] Connected with client from 127.0.0.1:64149
+[14:27:46] Connection from 127.0.0.1:64149 disconnected.
+[14:27:46] Connected with client from 127.0.0.1:64154
+[14:27:46] Connection from 127.0.0.1:64154 disconnected.
+[14:27:46] Connected with client from 127.0.0.1:64156
+[14:27:47] Connection from 127.0.0.1:64156 disconnected.
+[14:27:47] Connected with client from 127.0.0.1:64158
+[14:27:47] Connection from 127.0.0.1:64158 disconnected.
+[14:27:47] Connected with client from 127.0.0.1:64160
+[14:27:48] Connection from 127.0.0.1:64160 disconnected.
+[14:27:48] Connected with client from 127.0.0.1:64162
+[14:27:48] Connection from 127.0.0.1:64162 disconnected.
+[14:27:48] Connected with client from 127.0.0.1:64164
+[14:27:49] Connection from 127.0.0.1:64164 disconnected.
+[14:27:49] Connected with client from 127.0.0.1:64166
+[14:27:49] Connection from 127.0.0.1:64166 disconnected.
+[14:27:49] Connected with client from 127.0.0.1:64172
+[14:27:50] Connection from 127.0.0.1:64172 disconnected.
+[14:27:50] Connected with client from 127.0.0.1:64174
+[14:27:50] Connection from 127.0.0.1:64174 disconnected.
+[14:27:50] Connected with client from 127.0.0.1:64176
+[14:27:50] Connection from 127.0.0.1:64176 disconnected.
+[14:27:51] Connected with client from 127.0.0.1:64180
+[14:27:51] Connection from 127.0.0.1:64180 disconnected.
+[14:27:51] Connected with client from 127.0.0.1:64182
+[14:27:51] Connection from 127.0.0.1:64182 disconnected.
+[14:27:52] Connected with client from 127.0.0.1:64184
+[14:27:52] Connection from 127.0.0.1:64184 disconnected.
+[14:27:52] Connected with client from 127.0.0.1:64186
+[14:27:52] Connection from 127.0.0.1:64186 disconnected.
+[14:27:52] Connected with client from 127.0.0.1:64188
+[14:27:53] Connection from 127.0.0.1:64188 disconnected.
+[14:27:53] Connected with client from 127.0.0.1:64190
+[14:27:53] Connection from 127.0.0.1:64190 disconnected.
+[14:27:53] Connected with client from 127.0.0.1:64192
+[14:27:54] Connection from 127.0.0.1:64192 disconnected.
+[14:27:54] Connected with client from 127.0.0.1:64194
+[14:27:54] Connection from 127.0.0.1:64194 disconnected.
+[14:27:54] Connected with client from 127.0.0.1:64196
+[14:27:54] Connection from 127.0.0.1:64196 disconnected.
+[14:27:55] Connected with client from 127.0.0.1:64201
+[14:27:55] Connection from 127.0.0.1:64201 disconnected.
+[14:27:55] Connected with client from 127.0.0.1:64204
+[14:27:55] Connection from 127.0.0.1:64204 disconnected.
+[14:27:56] Connected with client from 127.0.0.1:64206
+[14:27:56] Connection from 127.0.0.1:64206 disconnected.
+[14:27:56] Connected with client from 127.0.0.1:64209
+[14:27:56] Connection from 127.0.0.1:64209 disconnected.
+[14:27:56] Connected with client from 127.0.0.1:64211
+[14:27:57] Connection from 127.0.0.1:64211 disconnected.
+[14:27:57] Connected with client from 127.0.0.1:64213
+[14:27:57] Connection from 127.0.0.1:64213 disconnected.
+[14:27:57] Connected with client from 127.0.0.1:64215
+[14:27:58] Connection from 127.0.0.1:64215 disconnected.
+[14:27:58] Connected with client from 127.0.0.1:64217
+[14:27:58] Connection from 127.0.0.1:64217 disconnected.
+[14:27:58] Connected with client from 127.0.0.1:64219
+[14:27:58] Connection from 127.0.0.1:64219 disconnected.
+[14:27:59] Connected with client from 127.0.0.1:64221
+[14:27:59] Connection from 127.0.0.1:64221 disconnected.
+[14:27:59] Connected with client from 127.0.0.1:64223
+[14:27:59] Connection from 127.0.0.1:64223 disconnected.
+[14:28:00] Connected with client from 127.0.0.1:64225
+[14:28:00] Connection from 127.0.0.1:64225 disconnected.
+[14:28:00] Connected with client from 127.0.0.1:64228
+[14:28:00] Connection from 127.0.0.1:64228 disconnected.
+[14:28:01] Connected with client from 127.0.0.1:64230
+[14:28:01] Connection from 127.0.0.1:64230 disconnected.
+[14:28:01] Connected with client from 127.0.0.1:64232
+[14:28:01] Connection from 127.0.0.1:64232 disconnected.
+[14:28:01] Connected with client from 127.0.0.1:64234
+[14:28:02] Connection from 127.0.0.1:64234 disconnected.
+[14:28:02] Connected with client from 127.0.0.1:64236
+[14:28:02] Connection from 127.0.0.1:64236 disconnected.
+[14:28:02] Connected with client from 127.0.0.1:64238
+[14:28:03] Connection from 127.0.0.1:64238 disconnected.
+[14:28:03] Connected with client from 127.0.0.1:64242
+[14:28:03] Connection from 127.0.0.1:64242 disconnected.
+[14:28:03] Connected with client from 127.0.0.1:64244
+[14:28:03] Connection from 127.0.0.1:64244 disconnected.
+[14:28:04] Connected with client from 127.0.0.1:64246
+[14:28:04] Connection from 127.0.0.1:64246 disconnected.
+[14:28:04] Connected with client from 127.0.0.1:64248
+[14:28:04] Connection from 127.0.0.1:64248 disconnected.
+[14:28:05] Connected with client from 127.0.0.1:64250
+[14:28:05] Connection from 127.0.0.1:64250 disconnected.
+[14:28:05] Connected with client from 127.0.0.1:64252
+[14:28:05] Connection from 127.0.0.1:64252 disconnected.
+[14:28:05] Connected with client from 127.0.0.1:64254
+[14:28:06] Connection from 127.0.0.1:64254 disconnected.
+[14:28:06] Connected with client from 127.0.0.1:64257
+[14:28:06] Connection from 127.0.0.1:64257 disconnected.
+[14:28:06] Connected with client from 127.0.0.1:64259
+[14:28:07] Connection from 127.0.0.1:64259 disconnected.
+[14:28:07] Connected with client from 127.0.0.1:64261
+[14:28:07] Connection from 127.0.0.1:64261 disconnected.
+[14:28:07] Connected with client from 127.0.0.1:64263
+[14:28:07] Connection from 127.0.0.1:64263 disconnected.
+[14:28:08] Connected with client from 127.0.0.1:64265
+[14:28:08] Connection from 127.0.0.1:64265 disconnected.
+[14:28:08] Connected with client from 127.0.0.1:64267
+[14:28:08] Connection from 127.0.0.1:64267 disconnected.
+[14:28:09] Connected with client from 127.0.0.1:64269
+[14:28:09] Connection from 127.0.0.1:64269 disconnected.
+[14:28:09] Connected with client from 127.0.0.1:64271
+[14:28:09] Connection from 127.0.0.1:64271 disconnected.
+[14:28:10] Connected with client from 127.0.0.1:64273
+[14:28:10] Connection from 127.0.0.1:64273 disconnected.
+[14:28:10] Connected with client from 127.0.0.1:64275
+[14:28:10] Connection from 127.0.0.1:64275 disconnected.
+[14:28:11] Connected with client from 127.0.0.1:64277
+[14:28:11] Connection from 127.0.0.1:64277 disconnected.
+[14:28:11] Connected with client from 127.0.0.1:64279
+[14:28:12] Connection from 127.0.0.1:64279 disconnected.
+[14:28:12] Connected with client from 127.0.0.1:64281
+[14:28:12] Connection from 127.0.0.1:64281 disconnected.
+[14:28:12] Connected with client from 127.0.0.1:64283
+[14:28:13] Connection from 127.0.0.1:64283 disconnected.
+[14:28:13] Connected with client from 127.0.0.1:64285
+[14:28:13] Connection from 127.0.0.1:64285 disconnected.
+[14:28:13] Connected with client from 127.0.0.1:64287
+[14:28:14] Connection from 127.0.0.1:64287 disconnected.
+[14:28:14] Connected with client from 127.0.0.1:64289
+[14:28:14] Connection from 127.0.0.1:64289 disconnected.
+[14:28:14] Connected with client from 127.0.0.1:64291
+[14:28:15] Connection from 127.0.0.1:64291 disconnected.
+[14:28:15] Connected with client from 127.0.0.1:64293
+[14:28:15] Connection from 127.0.0.1:64293 disconnected.
+[14:28:15] Connected with client from 127.0.0.1:64295
+[14:28:16] Connection from 127.0.0.1:64295 disconnected.
+[14:28:16] Connected with client from 127.0.0.1:64298
+[14:28:17] Connection from 127.0.0.1:64298 disconnected.
+[14:28:17] Connected with client from 127.0.0.1:64302
+[14:28:17] Connection from 127.0.0.1:64302 disconnected.
+[14:28:17] Connected with client from 127.0.0.1:64304
+[14:28:18] Connection from 127.0.0.1:64304 disconnected.
+[14:28:18] Connected with client from 127.0.0.1:64306
+[14:28:18] Connection from 127.0.0.1:64306 disconnected.
+[14:28:18] Connected with client from 127.0.0.1:64310
+[14:28:19] Connected with client from 127.0.0.1:64312
+[14:28:19] Connection from 127.0.0.1:64310 disconnected.
+[14:28:19] Connection from 127.0.0.1:64312 disconnected.
+[14:28:19] Connected with client from 127.0.0.1:64314
+[14:28:20] Connected with client from 127.0.0.1:64316
+[14:28:20] Connection from 127.0.0.1:64314 disconnected.
+[14:28:20] Connected with client from 127.0.0.1:64318
+[14:28:20] Connection from 127.0.0.1:64316 disconnected.
+[14:28:20] Connection from 127.0.0.1:64318 disconnected.
+[14:28:21] Connected with client from 127.0.0.1:64320
+[14:28:21] Connection from 127.0.0.1:64320 disconnected.
+[14:28:21] Connected with client from 127.0.0.1:64322
+[14:28:21] Connection from 127.0.0.1:64322 disconnected.
+[14:28:21] Connected with client from 127.0.0.1:64324
+[14:28:22] Connection from 127.0.0.1:64324 disconnected.
+[14:28:22] Connected with client from 127.0.0.1:64326
+[14:28:22] Connection from 127.0.0.1:64326 disconnected.
+[14:28:23] Connected with client from 127.0.0.1:64328
+[14:28:23] Connected with client from 127.0.0.1:64330
+[14:28:23] Connection from 127.0.0.1:64328 disconnected.
+[14:28:24] Connected with client from 127.0.0.1:64332
+[14:28:24] Connection from 127.0.0.1:64330 disconnected.
+[14:28:24] Connection from 127.0.0.1:64332 disconnected.
+[14:28:24] Connected with client from 127.0.0.1:64334
+[14:28:24] Connected with client from 127.0.0.1:64336
+[14:28:25] Connection from 127.0.0.1:64334 disconnected.
+[14:28:25] Connected with client from 127.0.0.1:64342
+[14:28:25] Connection from 127.0.0.1:64336 disconnected.
+[14:28:26] Connected with client from 127.0.0.1:64344
+[14:28:26] Connection from 127.0.0.1:64342 disconnected.
+[14:28:26] Connected with client from 127.0.0.1:64347
+[14:28:26] Connection from 127.0.0.1:64344 disconnected.
+[14:28:27] Connected with client from 127.0.0.1:64349
+[14:28:27] Connection from 127.0.0.1:64347 disconnected.
+[14:28:28] Connected with client from 127.0.0.1:64351
+[14:28:28] Connection from 127.0.0.1:64349 disconnected.
+[14:28:28] Connected with client from 127.0.0.1:64353
+[14:28:28] Connection from 127.0.0.1:64351 disconnected.
+[14:28:29] Connected with client from 127.0.0.1:64355
+[14:28:29] Connection from 127.0.0.1:64353 disconnected.
+[14:28:29] Connected with client from 127.0.0.1:64357
+[14:28:30] Connection from 127.0.0.1:64355 disconnected.
+[14:28:30] Connected with client from 127.0.0.1:64361
+[14:36:34] Software ID = [SmartHL7.Message.Receiver-1.3.x.x-48CO7@:2<543-45] - License expires on 2023.03.01.
+[14:36:35] Receiver launched.
+[14:36:37] Listening on port [7502] started.
+[14:36:49] Encoding=Western European (Windows) (1252).
+[14:36:49] Connected with client from 127.0.0.1:64668
+[14:36:49] Connection from 127.0.0.1:64668 disconnected.
+[14:36:50] Connected with client from 127.0.0.1:64670
+[14:36:50] Connection from 127.0.0.1:64670 disconnected.
+[14:36:50] Connected with client from 127.0.0.1:64672
+[14:36:50] Connection from 127.0.0.1:64672 disconnected.
+[14:36:50] Connected with client from 127.0.0.1:64674
+[14:36:51] Connection from 127.0.0.1:64674 disconnected.
+[14:36:51] Connected with client from 127.0.0.1:64676
+[14:36:51] Connection from 127.0.0.1:64676 disconnected.
+[14:36:51] Connected with client from 127.0.0.1:64678
+[14:36:52] Connection from 127.0.0.1:64678 disconnected.
+[14:36:52] Connected with client from 127.0.0.1:64680
+[14:36:52] Connection from 127.0.0.1:64680 disconnected.
+[14:36:52] Connected with client from 127.0.0.1:64682
+[14:36:53] Connection from 127.0.0.1:64682 disconnected.
+[14:36:53] Connected with client from 127.0.0.1:64684
+[14:36:53] Connection from 127.0.0.1:64684 disconnected.
+[14:36:53] Connected with client from 127.0.0.1:64686
+[14:36:53] Connection from 127.0.0.1:64686 disconnected.
+[14:36:54] Connected with client from 127.0.0.1:64688
+[14:36:54] Connection from 127.0.0.1:64688 disconnected.
+[14:36:54] Connected with client from 127.0.0.1:64690
+[14:36:54] Connection from 127.0.0.1:64690 disconnected.
+[14:36:55] Connected with client from 127.0.0.1:64692
+[14:36:55] Connection from 127.0.0.1:64692 disconnected.
+[14:36:55] Connected with client from 127.0.0.1:64694
+[14:36:55] Connection from 127.0.0.1:64694 disconnected.
+[14:36:56] Connected with client from 127.0.0.1:64697
+[14:36:56] Connection from 127.0.0.1:64697 disconnected.
+[14:36:56] Connected with client from 127.0.0.1:64699
+[14:36:56] Connection from 127.0.0.1:64699 disconnected.
+[14:36:57] Connected with client from 127.0.0.1:64701
+[14:36:57] Connection from 127.0.0.1:64701 disconnected.
+[14:36:57] Connected with client from 127.0.0.1:64706
+[14:36:57] Connection from 127.0.0.1:64706 disconnected.
+[14:36:57] Connected with client from 127.0.0.1:64709
+[14:36:58] Connection from 127.0.0.1:64709 disconnected.
+[14:36:58] Connected with client from 127.0.0.1:64711
+[14:36:58] Connection from 127.0.0.1:64711 disconnected.
+[14:36:58] Connected with client from 127.0.0.1:64713
+[14:36:59] Connection from 127.0.0.1:64713 disconnected.
+[14:36:59] Connected with client from 127.0.0.1:64715
+[14:36:59] Connection from 127.0.0.1:64715 disconnected.
+[14:36:59] Connected with client from 127.0.0.1:64717
+[14:37:00] Connection from 127.0.0.1:64717 disconnected.
+[14:37:00] Connected with client from 127.0.0.1:64719
+[14:37:00] Connection from 127.0.0.1:64719 disconnected.
+[14:37:00] Connected with client from 127.0.0.1:64722
+[14:37:00] Connection from 127.0.0.1:64722 disconnected.
+[14:37:01] Connected with client from 127.0.0.1:64724
+[14:37:01] Connection from 127.0.0.1:64724 disconnected.
+[14:37:01] Connected with client from 127.0.0.1:64726
+[14:37:01] Connection from 127.0.0.1:64726 disconnected.
+[14:37:02] Connected with client from 127.0.0.1:64728
+[14:37:02] Connection from 127.0.0.1:64728 disconnected.
+[14:37:02] Connected with client from 127.0.0.1:64731
+[14:37:02] Connection from 127.0.0.1:64731 disconnected.
+[14:37:03] Connected with client from 127.0.0.1:64733
+[14:37:03] Connection from 127.0.0.1:64733 disconnected.
+[14:37:03] Connected with client from 127.0.0.1:64735
+[14:37:03] Connection from 127.0.0.1:64735 disconnected.
+[14:37:04] Connected with client from 127.0.0.1:64737
+[14:37:04] Connection from 127.0.0.1:64737 disconnected.
+[14:37:04] Connected with client from 127.0.0.1:64739
+[14:37:04] Connection from 127.0.0.1:64739 disconnected.
+[14:37:05] Connected with client from 127.0.0.1:64741
+[14:37:05] Connection from 127.0.0.1:64741 disconnected.
+[14:37:05] Connected with client from 127.0.0.1:64743
+[14:37:05] Connection from 127.0.0.1:64743 disconnected.
+[14:37:05] Connected with client from 127.0.0.1:64745
+[14:37:06] Connection from 127.0.0.1:64745 disconnected.
+[14:37:06] Connected with client from 127.0.0.1:64747
+[14:37:06] Connection from 127.0.0.1:64747 disconnected.
+[14:37:06] Connected with client from 127.0.0.1:64749
+[14:37:07] Connection from 127.0.0.1:64749 disconnected.
+[14:37:07] Connected with client from 127.0.0.1:64751
+[14:37:07] Connection from 127.0.0.1:64751 disconnected.
+[14:37:07] Connected with client from 127.0.0.1:64754
+[14:37:08] Connection from 127.0.0.1:64754 disconnected.
+[14:37:08] Connected with client from 127.0.0.1:64756
+[14:37:08] Connection from 127.0.0.1:64756 disconnected.
+[14:37:08] Connected with client from 127.0.0.1:64758
+[14:37:08] Connection from 127.0.0.1:64758 disconnected.
+[14:37:09] Connected with client from 127.0.0.1:64760
+[14:37:09] Connection from 127.0.0.1:64760 disconnected.
+[14:37:09] Connected with client from 127.0.0.1:64762
+[14:37:09] Connection from 127.0.0.1:64762 disconnected.
+[14:37:10] Connected with client from 127.0.0.1:64764
+[14:37:10] Connection from 127.0.0.1:64764 disconnected.
+[14:37:10] Connected with client from 127.0.0.1:64766
+[14:37:10] Connection from 127.0.0.1:64766 disconnected.
+[14:37:11] Connected with client from 127.0.0.1:64768
+[14:37:11] Connection from 127.0.0.1:64768 disconnected.
+[14:37:11] Connected with client from 127.0.0.1:64770
+[14:37:11] Connection from 127.0.0.1:64770 disconnected.
+[14:37:12] Connected with client from 127.0.0.1:64772
+[14:37:12] Connection from 127.0.0.1:64772 disconnected.
+[14:37:12] Connected with client from 127.0.0.1:64774
+[14:37:12] Connection from 127.0.0.1:64774 disconnected.
+[14:37:13] Connected with client from 127.0.0.1:64776
+[14:37:13] Connection from 127.0.0.1:64776 disconnected.
+[14:38:00] Connected with client from 127.0.0.1:64823
+[14:38:00] Connection from 127.0.0.1:64823 disconnected.
+[14:39:00] Connected with client from 127.0.0.1:64851
+[14:39:00] Connection from 127.0.0.1:64851 disconnected.
+[14:40:00] Connected with client from 127.0.0.1:64891
+[14:40:00] Connection from 127.0.0.1:64891 disconnected.
+[14:41:00] Connected with client from 127.0.0.1:64933
+[14:41:00] Connection from 127.0.0.1:64933 disconnected.
+[14:42:00] Connected with client from 127.0.0.1:64957
+[14:42:00] Connection from 127.0.0.1:64957 disconnected.
+[14:43:00] Connected with client from 127.0.0.1:65011
+[14:43:00] Connection from 127.0.0.1:65011 disconnected.
+[14:44:00] Connected with client from 127.0.0.1:65035
+[14:44:00] Connection from 127.0.0.1:65035 disconnected.
+[14:45:00] Connected with client from 127.0.0.1:65065
+[14:45:01] Connection from 127.0.0.1:65065 disconnected.
+[14:46:00] Connected with client from 127.0.0.1:65101
+[14:46:00] Connection from 127.0.0.1:65101 disconnected.
+[14:47:00] Connected with client from 127.0.0.1:65143
+[14:47:00] Connection from 127.0.0.1:65143 disconnected.
+[14:48:00] Connected with client from 127.0.0.1:65180
+[14:48:00] Connection from 127.0.0.1:65180 disconnected.
+[14:49:00] Connected with client from 127.0.0.1:65203
+[14:49:00] Connection from 127.0.0.1:65203 disconnected.
+[14:50:00] Connected with client from 127.0.0.1:65231
+[14:50:00] Connection from 127.0.0.1:65231 disconnected.
+[14:51:00] Connected with client from 127.0.0.1:65272
+[14:51:00] Connection from 127.0.0.1:65272 disconnected.
+[14:52:00] Connected with client from 127.0.0.1:65301
+[14:52:00] Connection from 127.0.0.1:65301 disconnected.
+[14:53:00] Connected with client from 127.0.0.1:65351
+[14:53:00] Connection from 127.0.0.1:65351 disconnected.
+[14:54:00] Connected with client from 127.0.0.1:65383
+[14:54:00] Connection from 127.0.0.1:65383 disconnected.
+[14:55:00] Connected with client from 127.0.0.1:65414
+[14:55:00] Connection from 127.0.0.1:65414 disconnected.
+[14:56:00] Connected with client from 127.0.0.1:65452
+[14:56:00] Connection from 127.0.0.1:65452 disconnected.
+[14:57:00] Connected with client from 127.0.0.1:65480
+[14:57:00] Connection from 127.0.0.1:65480 disconnected.
+[14:58:00] Connected with client from 127.0.0.1:65522
+[14:58:00] Connection from 127.0.0.1:65522 disconnected.
+[14:59:00] Connected with client from 127.0.0.1:49163
+[14:59:00] Connection from 127.0.0.1:49163 disconnected.
+[15:00:00] Connected with client from 127.0.0.1:49210
+[15:00:01] Connection from 127.0.0.1:49210 disconnected.
+[15:01:00] Connected with client from 127.0.0.1:49257
+[15:01:00] Connection from 127.0.0.1:49257 disconnected.
+[15:02:00] Connected with client from 127.0.0.1:49307
+[15:02:00] Connection from 127.0.0.1:49307 disconnected.
+[15:03:00] Connected with client from 127.0.0.1:49346
+[15:03:00] Connection from 127.0.0.1:49346 disconnected.
+[15:04:00] Connected with client from 127.0.0.1:49372
+[15:04:00] Connection from 127.0.0.1:49372 disconnected.
+[15:05:00] Connected with client from 127.0.0.1:49402
+[15:05:00] Connection from 127.0.0.1:49402 disconnected.
+[15:06:00] Connected with client from 127.0.0.1:49700
+[15:06:00] Connection from 127.0.0.1:49700 disconnected.
+[15:07:00] Connected with client from 127.0.0.1:49731
+[15:07:00] Connection from 127.0.0.1:49731 disconnected.
+[15:08:00] Connected with client from 127.0.0.1:49780
+[15:08:00] Connection from 127.0.0.1:49780 disconnected.
+[15:09:00] Connected with client from 127.0.0.1:49810
+[15:09:00] Connection from 127.0.0.1:49810 disconnected.
+[15:10:00] Connected with client from 127.0.0.1:49852
+[15:10:00] Connection from 127.0.0.1:49852 disconnected.
+[15:11:00] Connected with client from 127.0.0.1:49890
+[15:11:00] Connection from 127.0.0.1:49890 disconnected.
+[15:12:00] Connected with client from 127.0.0.1:49918
+[15:12:00] Connection from 127.0.0.1:49918 disconnected.
+[15:13:00] Connected with client from 127.0.0.1:49959
+[15:13:00] Connection from 127.0.0.1:49959 disconnected.
+[15:14:00] Connected with client from 127.0.0.1:49993
+[15:14:00] Connection from 127.0.0.1:49993 disconnected.
+[15:15:00] Connected with client from 127.0.0.1:50021
+[15:15:00] Connection from 127.0.0.1:50021 disconnected.
+[15:16:00] Connected with client from 127.0.0.1:50094
+[15:16:00] Connection from 127.0.0.1:50094 disconnected.
+[15:17:00] Connected with client from 127.0.0.1:50117
+[15:17:00] Connection from 127.0.0.1:50117 disconnected.
+[15:18:00] Connected with client from 127.0.0.1:50158
+[15:18:00] Connection from 127.0.0.1:50158 disconnected.
+[15:19:00] Connected with client from 127.0.0.1:50199
+[15:19:00] Connection from 127.0.0.1:50199 disconnected.
+[15:21:27] Connected with client from 127.0.0.1:50282
+[15:21:27] Connection from 127.0.0.1:50282 disconnected.
+[15:21:28] Connected with client from 127.0.0.1:50284
+[15:21:28] Connection from 127.0.0.1:50284 disconnected.
+[15:22:00] Connected with client from 127.0.0.1:50297
+[15:22:00] Connection from 127.0.0.1:50297 disconnected.
+[15:23:00] Connected with client from 127.0.0.1:50347
+[15:23:00] Connection from 127.0.0.1:50347 disconnected.
+[15:24:00] Connected with client from 127.0.0.1:50377
+[15:24:00] Connection from 127.0.0.1:50377 disconnected.
+[15:25:00] Connected with client from 127.0.0.1:50400
+[15:25:00] Connection from 127.0.0.1:50400 disconnected.
+[15:26:00] Connected with client from 127.0.0.1:50439
+[15:26:00] Connection from 127.0.0.1:50439 disconnected.
+[15:27:00] Connected with client from 127.0.0.1:50462
+[15:27:00] Connection from 127.0.0.1:50462 disconnected.
+[15:28:00] Connected with client from 127.0.0.1:50502
+[15:28:00] Connection from 127.0.0.1:50502 disconnected.
+[15:29:00] Connected with client from 127.0.0.1:50531
+[15:29:00] Connection from 127.0.0.1:50531 disconnected.
+[15:30:00] Connected with client from 127.0.0.1:50558
+[15:30:00] Connection from 127.0.0.1:50558 disconnected.
+[15:31:00] Connected with client from 127.0.0.1:50604
+[15:31:01] Connection from 127.0.0.1:50604 disconnected.
+[15:32:00] Connected with client from 127.0.0.1:50627
+[15:32:00] Connection from 127.0.0.1:50627 disconnected.
+[15:33:00] Connected with client from 127.0.0.1:50679
+[15:33:00] Connection from 127.0.0.1:50679 disconnected.
+[15:56:04] Connected with client from 127.0.0.1:51445
+[15:56:04] Connection from 127.0.0.1:51445 disconnected.
+[15:56:05] Connected with client from 127.0.0.1:51447
+[15:56:05] Connection from 127.0.0.1:51447 disconnected.
+[15:56:06] Connected with client from 127.0.0.1:51449
+[15:56:06] Connection from 127.0.0.1:51449 disconnected.
+[15:56:07] Connected with client from 127.0.0.1:51451
+[15:56:07] Connection from 127.0.0.1:51451 disconnected.
+[15:56:07] Connected with client from 127.0.0.1:51453
+[15:56:08] Connection from 127.0.0.1:51453 disconnected.
+[15:56:08] Connected with client from 127.0.0.1:51455
+[15:56:08] Connection from 127.0.0.1:51455 disconnected.
+[15:56:09] Connected with client from 127.0.0.1:51458
+[15:56:09] Connection from 127.0.0.1:51458 disconnected.
+[15:56:09] Connected with client from 127.0.0.1:51460
+[15:56:09] Connection from 127.0.0.1:51460 disconnected.
+[15:56:10] Connected with client from 127.0.0.1:51462
+[15:56:10] Connection from 127.0.0.1:51462 disconnected.
+[15:56:10] Connected with client from 127.0.0.1:51464
+[15:56:11] Connection from 127.0.0.1:51464 disconnected.
+[15:56:11] Connected with client from 127.0.0.1:51466
+[15:56:11] Connection from 127.0.0.1:51466 disconnected.
+[15:56:11] Connected with client from 127.0.0.1:51468
+[15:56:12] Connected with client from 127.0.0.1:51470
+[15:56:12] Connection from 127.0.0.1:51468 disconnected.
+[15:56:12] Connection from 127.0.0.1:51470 disconnected.
+[15:56:12] Connected with client from 127.0.0.1:51472
+[15:56:13] Connection from 127.0.0.1:51472 disconnected.
+[15:56:13] Connected with client from 127.0.0.1:51474
+[15:56:13] Connected with client from 127.0.0.1:51476
+[15:56:13] Connection from 127.0.0.1:51474 disconnected.
+[15:56:14] Connected with client from 127.0.0.1:51478
+[15:56:14] Connection from 127.0.0.1:51476 disconnected.
+[15:56:14] Connected with client from 127.0.0.1:51480
+[15:56:15] Connection from 127.0.0.1:51478 disconnected.
+[15:56:15] Connected with client from 127.0.0.1:51482
+[15:56:15] Connection from 127.0.0.1:51480 disconnected.
+[15:56:15] Connected with client from 127.0.0.1:51484
+[15:56:16] Connection from 127.0.0.1:51482 disconnected.
+[15:56:16] Connection from 127.0.0.1:51484 disconnected.
+[15:56:16] Connected with client from 127.0.0.1:51486
+[15:56:17] Connection from 127.0.0.1:51486 disconnected.
+[15:56:17] Connected with client from 127.0.0.1:51488
+[15:56:18] Connected with client from 127.0.0.1:51490
+[15:56:18] Connection from 127.0.0.1:51488 disconnected.
+[15:56:18] Connection from 127.0.0.1:51490 disconnected.
+[15:57:00] Connected with client from 127.0.0.1:51513
+[15:57:00] Connection from 127.0.0.1:51513 disconnected.
+[15:58:00] Connected with client from 127.0.0.1:51563
+[15:58:00] Connection from 127.0.0.1:51563 disconnected.
+[15:59:00] Connected with client from 127.0.0.1:51586
+[15:59:00] Connection from 127.0.0.1:51586 disconnected.
+[16:00:00] Connected with client from 127.0.0.1:51625
+[16:00:00] Connection from 127.0.0.1:51625 disconnected.
+[16:01:00] Connected with client from 127.0.0.1:51670
+[16:01:00] Connection from 127.0.0.1:51670 disconnected.
+[16:02:00] Connected with client from 127.0.0.1:51710
+[16:02:00] Connection from 127.0.0.1:51710 disconnected.
+[16:03:00] Connected with client from 127.0.0.1:51750
+[16:03:00] Connection from 127.0.0.1:51750 disconnected.
+[16:04:00] Connected with client from 127.0.0.1:51778
+[16:04:00] Connection from 127.0.0.1:51778 disconnected.
+[16:05:00] Connected with client from 127.0.0.1:51812
+[16:05:00] Connection from 127.0.0.1:51812 disconnected.
+[16:06:00] Connected with client from 127.0.0.1:51848
+[16:06:00] Connection from 127.0.0.1:51848 disconnected.
+[16:07:00] Connected with client from 127.0.0.1:51877
+[16:07:00] Connection from 127.0.0.1:51877 disconnected.
+[16:08:00] Connected with client from 127.0.0.1:51935
+[16:08:00] Connection from 127.0.0.1:51935 disconnected.
+[16:09:00] Connected with client from 127.0.0.1:51970
+[16:09:00] Connection from 127.0.0.1:51970 disconnected.
+[16:10:00] Connected with client from 127.0.0.1:51996
+[16:10:00] Connection from 127.0.0.1:51996 disconnected.
+[16:11:00] Connected with client from 127.0.0.1:52038
+[16:11:00] Connection from 127.0.0.1:52038 disconnected.
+[16:12:00] Connected with client from 127.0.0.1:52068
+[16:12:00] Connection from 127.0.0.1:52068 disconnected.
+[16:13:00] Connected with client from 127.0.0.1:52111
+[16:13:00] Connection from 127.0.0.1:52111 disconnected.
+[16:14:00] Connected with client from 127.0.0.1:52143
+[16:14:00] Connection from 127.0.0.1:52143 disconnected.
+[16:15:00] Connected with client from 127.0.0.1:52191
+[16:15:00] Connection from 127.0.0.1:52191 disconnected.
+[16:16:00] Connected with client from 127.0.0.1:52233
+[16:16:00] Connection from 127.0.0.1:52233 disconnected.
+[16:17:00] Connected with client from 127.0.0.1:52261
+[16:17:00] Connection from 127.0.0.1:52261 disconnected.
+[16:18:00] Connected with client from 127.0.0.1:52302
+[16:18:00] Connection from 127.0.0.1:52302 disconnected.
+[16:19:00] Connected with client from 127.0.0.1:52333
+[16:19:00] Connection from 127.0.0.1:52333 disconnected.
+[16:20:00] Connected with client from 127.0.0.1:52367
+[16:20:00] Connection from 127.0.0.1:52367 disconnected.
+[16:21:00] Connected with client from 127.0.0.1:52403
+[16:21:00] Connection from 127.0.0.1:52403 disconnected.
+[16:22:00] Connected with client from 127.0.0.1:52426
+[16:22:00] Connection from 127.0.0.1:52426 disconnected.
+[16:23:00] Connected with client from 127.0.0.1:52476
+[16:23:00] Connection from 127.0.0.1:52476 disconnected.
+[16:24:00] Connected with client from 127.0.0.1:52532
+[16:24:00] Connection from 127.0.0.1:52532 disconnected.
+[16:25:00] Connected with client from 127.0.0.1:52557
+[16:25:00] Connection from 127.0.0.1:52557 disconnected.
+[16:26:00] Connected with client from 127.0.0.1:52595
+[16:26:00] Connection from 127.0.0.1:52595 disconnected.
+[16:27:00] Connected with client from 127.0.0.1:52619
+[16:27:00] Connection from 127.0.0.1:52619 disconnected.
+[16:28:00] Connected with client from 127.0.0.1:52664
+[16:28:00] Connection from 127.0.0.1:52664 disconnected.
+[16:29:00] Connected with client from 127.0.0.1:52696
+[16:29:00] Connection from 127.0.0.1:52696 disconnected.
+[16:30:00] Connected with client from 127.0.0.1:52730
+[16:30:00] Connection from 127.0.0.1:52730 disconnected.
+[16:31:00] Connected with client from 127.0.0.1:52782
+[16:31:01] Connection from 127.0.0.1:52782 disconnected.
+[16:32:00] Connected with client from 127.0.0.1:52804
+[16:32:00] Connection from 127.0.0.1:52804 disconnected.
+[16:33:00] Connected with client from 127.0.0.1:52847
+[16:33:00] Connection from 127.0.0.1:52847 disconnected.
+[16:34:00] Connected with client from 127.0.0.1:52889
+[16:34:00] Connection from 127.0.0.1:52889 disconnected.
+[16:35:00] Connected with client from 127.0.0.1:52921
+[16:35:00] Connection from 127.0.0.1:52921 disconnected.
+[16:36:00] Connected with client from 127.0.0.1:52961
+[16:36:00] Connection from 127.0.0.1:52961 disconnected.
+[16:37:00] Connected with client from 127.0.0.1:52994
+[16:37:00] Connection from 127.0.0.1:52994 disconnected.
+[16:38:00] Connected with client from 127.0.0.1:53044
+[16:38:00] Connection from 127.0.0.1:53044 disconnected.
+[16:39:00] Connected with client from 127.0.0.1:53071
+[16:39:00] Connection from 127.0.0.1:53071 disconnected.
+[16:40:00] Connected with client from 127.0.0.1:53095
+[16:40:00] Connection from 127.0.0.1:53095 disconnected.
+[16:41:00] Connected with client from 127.0.0.1:53138
+[16:41:00] Connection from 127.0.0.1:53138 disconnected.
+[16:42:00] Connected with client from 127.0.0.1:53169
+[16:42:00] Connection from 127.0.0.1:53169 disconnected.
+[16:43:00] Connected with client from 127.0.0.1:53204
+[16:43:00] Connection from 127.0.0.1:53204 disconnected.
+[16:44:00] Connected with client from 127.0.0.1:53232
+[16:44:00] Connection from 127.0.0.1:53232 disconnected.
+[16:45:00] Connected with client from 127.0.0.1:53262
+[16:45:00] Connection from 127.0.0.1:53262 disconnected.
+[16:46:00] Connected with client from 127.0.0.1:53310
+[16:46:01] Connection from 127.0.0.1:53310 disconnected.
+[16:47:00] Connected with client from 127.0.0.1:53335
+[16:47:00] Connection from 127.0.0.1:53335 disconnected.
+[16:48:00] Connected with client from 127.0.0.1:53380
+[16:48:00] Connection from 127.0.0.1:53380 disconnected.
+[16:49:00] Connected with client from 127.0.0.1:53404
+[16:49:00] Connection from 127.0.0.1:53404 disconnected.
+[16:50:00] Connected with client from 127.0.0.1:53438
+[16:50:00] Connection from 127.0.0.1:53438 disconnected.
+[16:51:00] Connected with client from 127.0.0.1:53474
+[16:51:01] Connection from 127.0.0.1:53474 disconnected.
+[16:52:00] Connected with client from 127.0.0.1:53502
+[16:52:00] Connection from 127.0.0.1:53502 disconnected.
+[16:53:00] Connected with client from 127.0.0.1:53549
+[16:53:00] Connection from 127.0.0.1:53549 disconnected.
+[16:54:00] Connected with client from 127.0.0.1:53592
+[16:54:00] Connection from 127.0.0.1:53592 disconnected.
+[16:55:00] Connected with client from 127.0.0.1:53620
+[16:55:00] Connection from 127.0.0.1:53620 disconnected.
+[16:56:00] Connected with client from 127.0.0.1:53665
+[16:56:00] Connection from 127.0.0.1:53665 disconnected.
+[16:57:00] Connected with client from 127.0.0.1:53708
+[16:57:00] Connection from 127.0.0.1:53708 disconnected.
+[16:58:00] Connected with client from 127.0.0.1:53750
+[16:58:00] Connection from 127.0.0.1:53750 disconnected.
+[16:59:00] Connected with client from 127.0.0.1:53779
+[16:59:00] Connection from 127.0.0.1:53779 disconnected.
+[17:00:00] Connected with client from 127.0.0.1:53844
+[17:00:00] Connection from 127.0.0.1:53844 disconnected.
+[17:01:00] Connected with client from 127.0.0.1:53912
+[17:01:00] Connection from 127.0.0.1:53912 disconnected.
+[17:02:00] Connected with client from 127.0.0.1:53942
+[17:02:00] Connection from 127.0.0.1:53942 disconnected.
+[17:03:00] Connected with client from 127.0.0.1:54010
+[17:03:00] Connection from 127.0.0.1:54010 disconnected.
+[17:04:00] Connected with client from 127.0.0.1:54075
+[17:04:00] Connection from 127.0.0.1:54075 disconnected.
+[17:05:00] Connected with client from 127.0.0.1:54112
+[17:05:00] Connection from 127.0.0.1:54112 disconnected.
+[17:06:00] Connected with client from 127.0.0.1:54153
+[17:06:00] Connection from 127.0.0.1:54153 disconnected.
+[17:07:00] Connected with client from 127.0.0.1:54191
+[17:07:00] Connection from 127.0.0.1:54191 disconnected.
+[17:08:00] Connected with client from 127.0.0.1:54247
+[17:08:00] Connection from 127.0.0.1:54247 disconnected.
+[17:09:00] Connected with client from 127.0.0.1:54274
+[17:09:00] Connection from 127.0.0.1:54274 disconnected.
+[17:10:00] Connected with client from 127.0.0.1:54307
+[17:10:00] Connection from 127.0.0.1:54307 disconnected.
+[17:11:00] Connected with client from 127.0.0.1:54351
+[17:11:00] Connection from 127.0.0.1:54351 disconnected.
+[17:12:00] Connected with client from 127.0.0.1:54390
+[17:12:00] Connection from 127.0.0.1:54390 disconnected.
+[17:13:27] Listening on port [7502] stopped.
+[17:13:31] Receiver quited.
