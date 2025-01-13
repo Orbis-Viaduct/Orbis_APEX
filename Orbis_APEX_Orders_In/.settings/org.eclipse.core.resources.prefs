@@ -11,5 +11,6 @@ encoding/LIMSOrderInbound.process_diagram=UTF-16
 encoding/MandatoryCheck.rule=UTF-16
 encoding/Orbis_APEX_Orders_In.process=UTF-16
 encoding/Orbis_APEX_Orders_In.process_diagram=UTF-16
+encoding/Orbis_In_Log.map=UTF-16
 encoding/Orbis_LIMS_Orders.process=UTF-16
 encoding/Orbis_LIMS_Orders.process_diagram=UTF-16
