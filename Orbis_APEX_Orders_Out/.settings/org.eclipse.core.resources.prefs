@@ -8,5 +8,7 @@ encoding/LIMSOrderWSCall.process=UTF-16
 encoding/LIMSOrderWSCall.process_diagram=UTF-16
 encoding/Orbis_APEX_Orders_Out.process=UTF-16
 encoding/Orbis_APEX_Orders_Out.process_diagram=UTF-16
+encoding/Orbis_APEX_Orders_Send.process=UTF-16
+encoding/Orbis_APEX_Orders_Send.process_diagram=UTF-16
 encoding/Orbis_LIMS_OrderWS.process=UTF-16
 encoding/Orbis_LIMS_OrderWS.process_diagram=UTF-16

@@ -1,0 +1,5 @@
+deploy.process.instances.Orbis_APEX_Results_Send=1
+deploy.profiles=ORBIS_APEX
+deploy.profiles.connector.ORBIS_APEX=APEX RESULTS SEND HL7,APEX_RESULTS_OUT_HL7|
+deploy.profiles.listeners.ORBIS_APEX=Orbis_APEX_Results_Send.connection_profiles\\APEX_RESULTS_Q_IN
+eclipse.preferences.version=1

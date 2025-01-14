@@ -1,5 +1,6 @@
 deploy.process.instances.LIMSOrderWSCall=1
 deploy.process.instances.Orbis_APEX_Orders_Out=1
+deploy.process.instances.Orbis_APEX_Orders_Send=1
 deploy.process.instances.Orbis_LIMS_OrderWS=1
 deploy.profiles=,ORBIS_APEX
 deploy.profiles.connector.ORBIS_APEX=SEND_ORM_TO_APEX,APEX_Order_ORM_HL7|APEX_ACK_LOG,APEX_ACK_LOG|

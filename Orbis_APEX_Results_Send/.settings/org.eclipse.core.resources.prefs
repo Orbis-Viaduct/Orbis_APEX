@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//Maps/ACKTransformation.map=UTF-16
+encoding//Models/GenericMsg.parserecore=UTF-16
+encoding//Models/HL7_2.5_ACK.parserecore=UTF-16
+encoding//Models/HL7_ORU_R01.parserecore=UTF-16
+encoding//Models/HL7_ORU_R01_ORBIS.parserecore=UTF-16
+encoding//Rules/logging.rule=UTF-16
+encoding/Orbis_APEX_Results_Send.process=UTF-16
+encoding/Orbis_APEX_Results_Send.process_diagram=UTF-16
