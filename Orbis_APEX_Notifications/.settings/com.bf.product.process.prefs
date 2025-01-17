@@ -1,6 +1,6 @@
 deploy.process.instances.Orbis_APEX_Notifications=1
 deploy.process.instances.OrderTransform=1
 deploy.profiles=,ORBIS_APEX
-deploy.profiles.connector.ORBIS_APEX=APEX NOTIFS OUT Q,APEX_NOTIFS_OUT_Q|
-deploy.profiles.listeners.ORBIS_APEX=APEX_ORM_Q_OUT
+deploy.profiles.connector.ORBIS_APEX=APEX NOTIFS OUT Q,APEX NOTIFS OUT Q|
+deploy.profiles.listeners.ORBIS_APEX=Orbis_APEX_Notifications_Out.connectionprofiles\\APEX_ORM_Q_OUT
 eclipse.preferences.version=1
