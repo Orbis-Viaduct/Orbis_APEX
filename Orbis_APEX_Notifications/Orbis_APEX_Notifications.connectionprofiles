@@ -1,86 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <DataTools.ServerProfiles version="1.0">
-    <profile autoconnect="No" desc="" id="64f52c10-d25f-11ef-a700-baac5bdc17b2" name="APEX_RESULTS_OUT_HL7" providerID="com.bf.connectionprofile.hl7.connector.connectionProfile">
-        <baseproperties>
-            <property name="connector.tcp.keepalive" value="false"/>
-            <property name="connector.hl7.sequence.pass.through.msg" value=""/>
-            <property name="connector.tcp.hostport" value="3005"/>
-            <property name="connector.base.serialization.type" value="native"/>
-            <property name="connector.base.systemalert.enabled" value="false"/>
-            <property name="connector.base.isiterable" value="false"/>
-            <property name="connector.tcp.sendtimeout" value="5000"/>
-            <property name="connector.tcp.encoding" value="Default"/>
-            <property name="connector.base.systemalert.configchanged" value="false"/>
-            <property name="connector.tcp.responsetimeout" value="5000"/>
-            <property name="connector.base.sendretryinterval" value="30000"/>
-            <property name="connector.tcp.buffersize" value="65536"/>
-            <property name="connector.base.sendretries" value="5"/>
-            <property name="connector.hl7.sequence.manager.check" value="false"/>
-            <property name="connector.messagebanking.enabled" value="false"/>
-            <property name="connector.base.connectretryinterval" value="30000"/>
-            <property name="connector.tcp.socketmode" value="Client"/>
-            <property name="connector.tcp.endofmessagechar" value="&lt;FS&gt;"/>
-            <property name="connector.base.outputschema" value=""/>
-            <property name="connector.base.connectretries" value="50"/>
-            <property name="connector.hl7.sequence.field.value" value=""/>
-            <property name="connector.messagebanking.sendalertonfailure" value="false"/>
-            <property name="connector.hl7.endofsegmentchar" value="&lt;CR&gt;"/>
-            <property name="connector.hl7.extendedack" value="false"/>
-            <property name="connector.hl7.sequence.manager.key" value=""/>
-            <property name="connector.hl7.sequence.check.replay" value="false"/>
-            <property name="connector.base.connector.type.mode" value="twoway"/>
-            <property name="connector.base.enforceconstraints" value="false"/>
-            <property name="connector.hl7.suppressnakexceptions" value="false"/>
-            <property name="connector.tcp.hostaddress" value="localhost"/>
-            <property name="connector.base.inputschema" value=""/>
-            <property name="connector.tcp.enablesecurity" value="false"/>
-            <property name="connector.base.connectmode" value="session"/>
-            <property name="connector.hl7.recordseparatorchar" value="&lt;CR&gt;"/>
-            <property name="connector.messagebanking.failprocessonfailure" value="false"/>
-            <property name="connector.base.systemalert.retryfailed" value="false"/>
-            <property name="connector.tcp.startofmessagechar" value="&lt;VT&gt;"/>
-        </baseproperties>
-    </profile>
-    <profile autoconnect="No" desc="" id="4ef11b70-d734-11ef-83f1-b3388beab919" name="APEX_RESULTS_LOG" providerID="com.bf.connectionprofile.file.connector.connectionProfile">
-        <baseproperties>
-            <property name="connector.base.isiterable" value="false"/>
-            <property name="connector.base.outputschema" value=""/>
-            <property name="connector.base.systemalert.enabled" value="false"/>
-            <property name="connector.file.usetempfile" value="false"/>
-            <property name="connector.base.connectmode" value="message"/>
-            <property name="connector.base.enforceconstraints" value="false"/>
-            <property name="connector.file.username" value=""/>
-            <property name="connector.file.delimiter" value=""/>
-            <property name="connector.base.sendretryinterval" value="30000"/>
-            <property name="connector.base.serialization.type" value="native"/>
-            <property name="connector.file.filename" value="${USER.ORBISFILEPATH}"/>
-            <property name="connector.file.renamefileonemptymessage" value="false"/>
-            <property name="connector.file.createdirectory" value="false"/>
-            <property name="connector.file.archivemode" value="none"/>
-            <property name="connector.messagebanking.failprocessonfailure" value="false"/>
-            <property name="connector.file.filetype" value="directory"/>
-            <property name="connector.messagebanking.enabled" value="false"/>
-            <property name="connector.file.archiveFileNameText" value=""/>
-            <property name="connector.messagebanking.sendalertonfailure" value="false"/>
-            <property name="connector.file.noemptytext" value=""/>
-            <property name="connector.base.connectretryinterval" value="30000"/>
-            <property name="connector.file.append" value="true"/>
-            <property name="connector.base.systemalert.retryfailed" value="false"/>
-            <property name="connector.file.encoding" value="Default"/>
-            <property name="retry" value="false"/>
-            <property name="connector.base.systemalert.configchanged" value="false"/>
-            <property name="connector.base.inputschema" value=""/>
-            <property name="connector.file.archiveDirectoryText" value=""/>
-            <property name="connector.base.connector.type.mode" value="oneway"/>
-            <property name="connector.file.directory" value="${USER.LOGDIRPATH}"/>
-            <property name="connector.file.recordlength" value="0"/>
-            <property name="connector.base.connectretries" value="50"/>
-            <property name="connector.base.sendretries" value="5"/>
-            <property name="connector.file.saveoptions" value="overwrite"/>
-            <property name="zipfile" value="false"/>
-        </baseproperties>
-    </profile>
-    <profile autoconnect="No" desc="" id="3ee149e0-d260-11ef-a700-baac5bdc17b2" name="APEX_RESULTS_Q_IN" providerID="com.bf.connectionprofile.queue.listener.connectionProfile">
+    <profile autoconnect="No" desc="" id="045251b0-d7de-11ef-b048-b9bcf56a3390" name="APEX_NOTIFS_Q_IN" providerID="com.bf.connectionprofile.queue.listener.connectionProfile">
         <baseproperties>
             <property name="listener.base.trace.vml" value="true"/>
             <property name="listener.base.trace.message.properties.mapname" value=""/>
@@ -108,7 +28,6 @@
             <property name="listener.base.trace.beforemap.trace" value="true"/>
             <property name="listener.base.systemalert.queuelimited" value="false"/>
             <property name="listener.base.trace.afterconnector" value="true"/>
-            <property name="listener.base.trace.afterconnector.trace" value="false"/>
             <property name="userdefined.properties" value=""/>
             <property name="listener.queue.sequence.controlKey.field" value=""/>
             <property name="listener.base.systemalert.slowmsgprocessingtext" value="300"/>
@@ -165,7 +84,7 @@
             <property name="listener.base.enabletrace" value="true"/>
             <property name="listener.queue.sequence.persist" value="false"/>
             <property name="listener.base.systemalert.msgprocessfailed" value="false"/>
-            <property name="listener.queue.destination" value="APEX_RESULTS_Q"/>
+            <property name="listener.queue.destination" value="APEX_NOTIFS_Q"/>
             <property name="listener.base.trace.connector.detail" value="true"/>
             <property name="listener.base.listenerretries" value="5"/>
             <property name="listener.base.trace.beforeserialize.trace" value="true"/>
@@ -177,7 +96,6 @@
             <property name="listener.base.trace.beforerule" value="true"/>
             <property name="listener.base.trace.message.properties" value="false"/>
             <property name="listener.base.trace.message.properties.failprocessonfailure" value="false"/>
-            <property name="listener.base.trace.beforeconnector.trace" value="false"/>
             <property name="listener.queue.sequence.large.gap" value=""/>
             <property name="listener.base.systemalert.queuelimitedtext" value="1000"/>
             <property name="listener.base.trace.listenerlevel.events" value="true"/>
@@ -186,7 +104,7 @@
             <property name="listener.base.logrolloverinterval" value="daily"/>
         </baseproperties>
     </profile>
-    <profile autoconnect="No" desc="" id="7817b080-d280-11ef-a052-cff460571f47" name="ORBIS_ACK_LOG" providerID="com.bf.connectionprofile.file.connector.connectionProfile">
+    <profile autoconnect="No" desc="" id="a515fa81-d7dd-11ef-b048-b9bcf56a3390" name="APEX_NOTIFS_LOG" providerID="com.bf.connectionprofile.file.connector.connectionProfile">
         <baseproperties>
             <property name="connector.base.isiterable" value="false"/>
             <property name="connector.base.outputschema" value=""/>
@@ -200,7 +118,7 @@
             <property name="connector.base.serialization.type" value="native"/>
             <property name="connector.file.filename" value="${USER.ORBISFILEPATH}"/>
             <property name="connector.file.renamefileonemptymessage" value="false"/>
-            <property name="connector.file.createdirectory" value="false"/>
+            <property name="connector.file.createdirectory" value="true"/>
             <property name="connector.file.archivemode" value="none"/>
             <property name="connector.messagebanking.failprocessonfailure" value="false"/>
             <property name="connector.file.filetype" value="directory"/>

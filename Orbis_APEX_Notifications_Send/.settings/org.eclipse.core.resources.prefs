@@ -4,5 +4,7 @@ encoding//Models/GenericMsg.parserecore=UTF-16
 encoding//Models/HL7_2.5_ACK.parserecore=UTF-16
 encoding//Models/HL7_2.5_ORL_O22.parserecore=UTF-16
 encoding//Models/Msg.parserecore=UTF-16
+encoding//Rules/logging.rule=UTF-16
 encoding/Orbis_APEX_Notifications_Send.process=UTF-16
 encoding/Orbis_APEX_Notifications_Send.process_diagram=UTF-16
+encoding/apex_notifs_log.map=UTF-16

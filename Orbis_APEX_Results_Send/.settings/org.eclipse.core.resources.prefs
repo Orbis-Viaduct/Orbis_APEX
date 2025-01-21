@@ -7,3 +7,4 @@ encoding//Models/HL7_ORU_R01_ORBIS.parserecore=UTF-16
 encoding//Rules/logging.rule=UTF-16
 encoding/Orbis_APEX_Results_Send.process=UTF-16
 encoding/Orbis_APEX_Results_Send.process_diagram=UTF-16
+encoding/apex_results_log.map=UTF-16
